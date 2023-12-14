@@ -1,0 +1,1053 @@
+<resources>
+    <string name="app_name">Tour Guide PUNE</string>
+    <string name="splash_name">Tour Guide</string>
+    <string name="app_tag_text">The Information of Tourist Places</string>
+    <string name="no_desc_available">No description available</string>
+    <string name="hotels">Hotels</string>
+    <string name="Adventure">Adventure and Historical</string>
+    <string name="cultural">Cultural and Wildlife</string>
+    <string name="parks">Parks and Museums</string>
+    <string name="image">image</string>
+
+
+
+    <string name="sinhagad">Sinhagad Fort</string>
+    <string name="rajmachi">Rajmachi Fort</string>
+    <string name="rajgad">Rajgad Fort</string>
+    <string name="torna">Torna Fort</string>
+    <string name="purandar">Purandar Fort</string>
+    <string name="shivneri">Shivneri Fort</string>
+    <string name="aga_khan">Aga Khan Palace</string>
+    <string name="lal_mahal">Lal Mahal</string>
+    <string name="malhargad">Malhargad Fort</string>
+    <string name="shaniwarwada">Shaniwarwada</string>
+    <string name="taljai">Taljai Hill</string>
+    <string name="hadsar">Hadsar Trek</string>
+    <string name="tamhini">Tamhini Waterfall</string>
+    <string name="korigad">Korigad Trek</string>
+
+    <string name="sinhagad_type">Historical Place</string>
+    <string name="rajmachi_type">Historical Place</string>
+    <string name="rajgad_type">Historical Place</string>
+    <string name="torna_type">Historical Place</string>
+    <string name="purandar_type">Historical Place</string>
+    <string name="shivneri_type">Historical Place</string>
+    <string name="aga_khan_type">Historical Place</string>
+    <string name="lal_mahal_type">Historical Place</string>
+    <string name="malhargad_type">Historical Place</string>
+    <string name="shaniwarwada_type">Historical Place</string>
+    <string name="taljai_type">Adventurous Place</string>
+    <string name="hadsar_type">Adventurous Place</string>
+    <string name="tamhini_type">Adventurous Place</string>
+    <string name="korigad_type">Adventurous Place</string>
+
+    <string name="sinhagad_phone">- - -</string>
+    <string name="rajmachi_phone">- - -</string>
+    <string name="rajgad_phone">- - -</string>
+    <string name="torna_phone">- - -</string>
+    <string name="purandar_phone">- - -</string>
+    <string name="shivneri_phone">- - -</string>
+    <string name="aga_khan_phone">- - -</string>
+    <string name="lal_mahal_phone">- - -</string>
+    <string name="malhargad_phone">- - -</string>
+    <string name="shaniwarwada_phone">- - -</string>
+    <string name="taljai_phone">- - -</string>
+    <string name="hadsar_phone">- - -</string>
+    <string name="tamhini_phone">- - -</string>
+    <string name="korigad_phone">- - -</string>
+
+    <string name="sinhagad_time">5:00am - 6:00pm</string>
+    <string name="rajmachi_time">5:00am - 6:00pm</string>
+    <string name="rajgad_time">5:00am - 6:00pm</string>
+    <string name="torna_time">5:00am - 6:00pm</string>
+    <string name="purandar_time">5:00am - 6:00pm</string>
+    <string name="shivneri_time">5:00am - 6:00pm</string>
+    <string name="aga_khan_time">9:00am - 6:00pm</string>
+    <string name="lal_mahal_time">9:00am - 6:00pm</string>
+    <string name="malhargad_time">5:00am - 6:00pm</string>
+    <string name="shaniwarwada_time">9:00am - 6:00pm</string>
+    <string name="taljai_time">5:00am - 6:00pm</string>
+    <string name="hadsar_time">5:00am - 6:00pm</string>
+    <string name="tamhini_time">5:00am - 6:00pm</string>
+    <string name="korigad_time">5:00am - 6:00pm</string>
+
+    <string name="sinhagad_address">Sinhagad Fort, Thoptewadi, Pune, Maharashtra 411025, India</string>
+    <string name="rajmachi_address">Rajmachi Fort, Udhewadi, Maharashtra 410401, India</string>
+    <string name="rajgad_address">Rajgad Fort, Velhe, Pune, Maharashtra 412213, India</string>
+    <string name="torna_address">Torna Fort, Velhe, Pune, Maharashtra 412212, India</string>
+    <string name="purandar_address">Purandar Fort, Saswad-Purandar Road, Purandar, Maharashtra 412301, India</string>
+    <string name="shivneri_address">5VV4+65Q, Unnamed Road, Kusur, Junnar, Maharashtra 410502</string>
+    <string name="aga_khan_address">Aga Khan Palace Road, Kalyani Nagar, Pune, Maharashtra 411006, India</string>
+    <string name="lal_mahal_address">Lal Mahal, Ganj Peth, Pune, Maharashtra 411002, India</string>
+    <string name="malhargad_address">Malhargad Fort, Kalewadi, Maharashtra 412301</string>
+    <string name="shaniwarwada_address">Shaniwarwada, Shaniwar Peth, Pune, Maharashtra 411030, India</string>
+    <string name="taljai_address">Taljai Tekdi Road, Sahakar Nagar, Parvati Paytha, Pune, Maharashtra 411009, India</string>
+    <string name="hadsar_address">Hadsar Village, Taluka - Junnar, District - Pune, Maharashtra 410502, India</string>
+    <string name="tamhini_address">Tamhini Waterfall, Tamhini Ghat Road, Near Pune, Maharashtra 412410, India</string>
+    <string name="korigad_address">Korigad Base Village, Peth Shahpur, Maharashtra 410506, India</string>
+
+    <string name="sinhagad_about">\n Sinhagad Fort is a historical fortress located on a hilltop in the district of Pune in the Indian state of Maharashtra. The fort is situated at an altitude of 1,312 meters above sea level and is surrounded by lush green valleys and mountains.\n\n
+    The word "Sinhagad" literally means "Lion's Fort" in Marathi language. The fort was originally called Kondhana Fort and was built in the 17th century by the famous Maratha warrior king, Chhatrapati Shivaji Maharaj.\n\n
+    The fort has a rich history and has witnessed many battles and conquests. It was captured by the Mughals in 1665 and was later recaptured by Shivaji Maharaj in 1670. The fort played a pivotal role in the Battle of Sinhagad in 1670, which is considered to be one of the most important battles fought by Shivaji Maharaj.\n\n
+    The fort also has several temples, including the Kali Temple, which is dedicated to the Hindu goddess Kali. The temple is believed to be very ancient and is visited by devotees throughout the year.\n\n
+    Overall, Sinhagad Fort is an important historical monument in Maharashtra and is a must-visit destination for history buffs, adventure enthusiasts, and nature lovers.
+    </string>
+
+    <string name="rajmachi_about">\n Rajmachi Fort is a historical hill fort located in the Sahyadri mountain range of the Indian state of Maharashtra. It is situated at an altitude of about 820 meters above sea level and is surrounded by lush green forests, waterfalls, and valleys.\n\n
+    The fort has a rich history and was initially built by the Satavahanas dynasty, and later captured by Shivaji Maharaj in the 17th century. The fort was used as a strategic fortification for monitoring the trade routes in the region.\n\n
+    The fort has two fortified peaks, namely Shrivardhan and Manaranjan. It is connected to Lonavala and Khandala hill stations through a trekking trail. The trek to Rajmachi fort is a popular activity among adventure enthusiasts and nature lovers.\n\n
+    The fort offers breathtaking views of the surrounding valley and the ancient trade routes that were once used for transportation of goods. The fort has several structures and monuments, including ancient temples, water tanks, and caves. The temple of Lord Shiva and the Kondhavi waterfall are some of the popular tourist attractions in the fort.\n\n
+    Overall, Rajmachi Fort is an important historical monument in Maharashtra and is a must-visit destination for adventure enthusiasts and nature lovers. The fort provides an opportunity to explore the rich history and natural beauty of the region.
+    </string>
+
+    <string name="rajgad_about">\n Rajgad Fort is a historic hill fort located in the Pune district of Maharashtra, India. It is situated at an altitude of 1,376 meters above sea level and is about 40 km southwest of Pune city. The fort played a significant role in the history of the Maratha Empire, serving as the capital of the empire during the reign of Chhatrapati Shivaji Maharaj.\n\n
+    The fort is known for its impressive architecture and strategic location. It has a vast spread-out structure with several bastions and gates that were built to protect it from invaders. The fort has two main parts - the inner fort and the outer fort. The inner fort was the residence of Shivaji Maharaj, while the outer fort was used for administrative purposes.\n\n
+    The fort has several interesting structures and monuments, including the Padmavati Temple, which is located at the top of the fort. The temple is dedicated to the goddess Padmavati and is believed to be one of the oldest temples in Maharashtra. There are also several other temples, water tanks, and a large granary on the fort.\n\n
+    The fort is surrounded by lush green forests and offers stunning panoramic views of the Sahyadri mountain range. The trek to the top of the fort is a popular activity among adventure enthusiasts and nature lovers.\n\n
+    Overall, Rajgad Fort is an important historical monument in Maharashtra and is a must-visit destination for history buffs, adventure enthusiasts, and nature lovers. It provides a unique opportunity to explore the rich history and natural beauty of the region.
+    </string>
+
+    <string name="torna_about">\n Torna Fort, also known as Prachandagad, is a historic hill fort located in the Pune district of Maharashtra, India. It is situated at an altitude of 1,403 meters above sea level and is about 60 km southwest of Pune city. The fort played an important role in the history of the Maratha Empire, serving as a strategic fortification during various battles.\n\n
+    The fort is known for its impressive architecture and strategic location. It has a large spread-out structure with several bastions and gates that were built to protect it from invaders. The fort has two main parts - the Budhla Machi and the Zunjar Machi. The Budhla Machi was used for administrative purposes, while the Zunjar Machi was the residence of the king.\n\n
+    The fort has several interesting structures and monuments, including the Bini Darwaza, which is the main entrance to the fort. The Bini Darwaza is an imposing structure with beautiful carvings and decorations. There is also a large water tank on the fort, which was used to store water for the residents of the fort.\n\n
+    The fort is surrounded by lush green forests and offers stunning panoramic views of the Sahyadri mountain range. The trek to the top of the fort is a popular activity among adventure enthusiasts and nature lovers.\n\n
+    Overall, Torna Fort is an important historical monument in Maharashtra and is a must-visit destination for history buffs, adventure enthusiasts, and nature lovers. It provides a unique opportunity to explore the rich history and natural beauty of the region.
+    </string>
+
+    <string name="purandar_about">\n Purandar Fort is a historic hill fort located in the Pune district of Maharashtra, India. It is situated at an altitude of 1,355 meters above sea level and is about 50 km southeast of Pune city. The fort played a significant role in the history of the Maratha Empire and was a crucial defense fortification.\n\n
+    The fort is known for its impressive architecture and strategic location. It has a vast spread-out structure with several bastions and gates that were built to protect it from invaders. The fort has two main parts - the upper fort and the lower fort. The upper fort was the residence of the king, while the lower fort was used for administrative purposes.\n\n
+    The fort has several interesting structures and monuments, including the Dilli Darwaza, which is the main entrance to the fort. The Dilli Darwaza is an imposing structure with beautiful carvings and decorations. There is also a large water tank on the fort, which was used to store water for the residents of the fort.\n\n
+    The fort is surrounded by lush green forests and offers stunning panoramic views of the Sahyadri mountain range. The trek to the top of the fort is a popular activity among adventure enthusiasts and nature lovers\n\n
+    Overall, Purandar Fort is an important historical monument in Maharashtra and is a must-visit destination for history buffs, adventure enthusiasts, and nature lovers. It provides a unique opportunity to explore the rich history and natural beauty of the region.
+    </string>
+
+    <string name="shivneri_about">\n Shivneri Fort is a historic hill fort located in the Junnar region of the Pune district of Maharashtra, India. It is situated at an altitude of 1,470 meters above sea level and is about 90 km northeast of Pune city. The fort is considered to be the birthplace of Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire.\n\n
+    The fort is known for its impressive architecture and strategic location. It has a vast spread-out structure with several bastions and gates that were built to protect it from invaders. The fort has two main parts - the upper fort and the lower fort. The upper fort was the residence of the king, while the lower fort was used for administrative purposes.\n\n
+    The fort has several interesting structures and monuments, including the Kadelot Point, which offers stunning views of the surrounding mountains and valleys. The fort also has a large water tank, which was used to store water for the residents of the fort.\n\n
+    The fort is surrounded by lush green forests and offers stunning panoramic views of the Sahyadri mountain range. The trek to the top of the fort is a popular activity among adventure enthusiasts and nature lovers. Visitors can also explore the nearby historic sites such as the Lenyadri Caves and the Ozar Ganpati Temple.\n\n
+    Overall, Shivneri Fort is an important historical monument in Maharashtra and is a must-visit destination for history buffs, adventure enthusiasts, and nature lovers. It provides a unique opportunity to explore the rich history and natural beauty of the region and to learn about the life of one of the greatest leaders in Indian history, Chhatrapati Shivaji Maharaj.
+    </string>
+
+    <string name="aga_khan_about">\n The Aga Khan Palace is a historic palace located in Pune, Maharashtra, India. It was built by Sultan Muhammed Shah Aga Khan III in 1892 and served as a significant landmark in the Indian freedom struggle. The palace is a beautiful blend of Italian and Indian architectural styles and is spread over 19 acres of land.\n\n
+    The palace has several interesting structures and monuments, including a large prayer hall, a museum, and a beautiful garden. The prayer hall is the most significant part of the palace, with a beautiful dome and intricate carvings on the walls. The palace also has a museum that showcases the life of Mahatma Gandhi, his wife Kasturba Gandhi, and other freedom fighters. The museum displays several personal belongings of Mahatma Gandhi, including his clothes, letters, and other memorabilia.\n\n
+    The palace played a crucial role in the Indian freedom struggle, as it served as a prison for Mahatma Gandhi and his wife Kasturba Gandhi during the Quit India movement in 1942. Kasturba Gandhi passed away during her imprisonment at the palace, and her samadhi (memorial) is located in the palace premises.\n\n
+    The palace is surrounded by lush green gardens and offers a serene and peaceful atmosphere. It is a popular tourist destination and a must-visit for history buffs, architecture enthusiasts, and nature lovers. The palace provides a unique opportunity to learn about the Indian freedom struggle and the life of Mahatma Gandhi and his wife Kasturba Gandhi.
+    </string>
+
+    <string name="lal_mahal_about">\n Lal Mahal is a historic palace located in the heart of Pune city in Maharashtra, India. It was built in 1630 by Shahaji Bhosale, the father of the great Maratha warrior, Chhatrapati Shivaji Maharaj. The palace was later reconstructed in 1656 by Shivaji Maharaj himself after it was destroyed in a fire.\n\n
+    The Lal Mahal is a beautiful blend of Mughal and Maratha architectural styles and is spread over a vast area. The palace has several interesting structures and monuments, including a large courtyard, a beautiful garden, and a museum. The courtyard is the most significant part of the palace, with a beautiful fountain and intricate carvings on the walls.\n\n
+    The palace also has a museum that showcases the life of Shivaji Maharaj, his mother Jijabai, and other significant Maratha warriors. The museum displays several personal belongings of Shivaji Maharaj, including his clothes, weapons, and other memorabilia.\n\n
+    Today, Lal Mahal is a popular tourist destination and a must-visit for history buffs, architecture enthusiasts, and culture lovers. The palace provides a unique opportunity to learn about the life of one of the greatest leaders in Indian history, Chhatrapati Shivaji Maharaj, and to explore the rich history and culture of Maharashtra.
+    </string>
+
+    <string name="malhargad_about">\n Malhargad Fort is a hill fort located in the Pune district of Maharashtra, India. It is situated at an altitude of 1,040 meters above sea level and is about 30 km from Pune city. The fort is also known as Sonori Fort and was built in the 17th century by the Maratha ruler Shivaji Maharaj.\n\n
+    The fort has several interesting structures and monuments, including a large entrance gate, several bastions, and a temple dedicated to Lord Shiva. The fort was built to protect the surrounding areas and was strategically located to monitor the trade routes passing through the region.\n\n
+    The trek to the top of the fort is a popular activity among adventure enthusiasts and nature lovers. The fort is surrounded by lush green forests and offers stunning panoramic views of the Sahyadri mountain range. Visitors can also explore the nearby historic sites such as the Sinhagad Fort and the Rajgad Fort.\n\n
+    Today, Malhargad Fort is a popular tourist destination and a must-visit for history buffs, adventure enthusiasts, and nature lovers. It provides a unique opportunity to explore the rich history and natural beauty of the region and to learn about the military tactics and strategies used by Shivaji Maharaj and his Maratha army.
+    </string>
+
+    <string name="shaniwarwada_about">\n Shaniwar Wada is a historic palace fort located in the heart of Pune city in Maharashtra, India. The fort was built in 1732 by the Peshwa Bajirao I, who was the prime minister of the Maratha Empire. The palace served as the seat of the Peshwa rulers until 1818, when the British East India Company defeated the Marathas and took control of the fort.\n\n
+    The palace was originally constructed using brick and stone and was seven stories tall. The main entrance to the palace was through the Delhi Darwaza, which was designed to resemble the gates of the Red Fort in Delhi. The palace also featured several gardens, fountains, and a moat that surrounded the palace walls.\n\n
+    Shaniwar Wada was known for its architectural beauty and was considered to be one of the most impressive structures in Pune. Unfortunately, much of the palace was destroyed in a fire in 1828, and only the fortified walls and the ruins of the palace now remain.\n\n
+    Today, the Shaniwar Wada is a popular tourist attraction in Pune and is open to visitors throughout the year. The palace walls and the ruins of the palace offer a glimpse into the rich history of the Maratha Empire and the architectural splendor of the Peshwa rulers. There is also a light and sound show held at the palace in the evenings, which narrates the history of the fort and the Maratha Empire.
+    </string>
+
+    <string name="taljai_about">\n Taljai Hill is located in the heart of Pune city in Maharashtra, India. It is a popular tourist spot and is also known for its biodiversity. The hill is home to a variety of flora and fauna and is a part of the Taljai forest reserve.\n\n
+    The hill is situated at an altitude of about 300 meters above sea level and offers a panoramic view of the cityscape. It is a popular spot for trekking and hiking, especially among locals. The trek to the top of the hill is not very difficult and can be completed in a few hours.\n\n
+    At the top of the hill, there is a temple dedicated to Taljai Mata, which is visited by many devotees. There is also a playground for children and a walking track for fitness enthusiasts.\n\n
+    Taljai Hill is also known for its beautiful sunset views. Many locals visit the hill in the evening to watch the sunset and enjoy the cool breeze. The hill is easily accessible by public transportation, making it a convenient and enjoyable spot to visit in Pune.
+    </string>
+
+    <string name="hadsar_about">\n Hadsar trek is a popular trekking route located in the Sahyadri mountain range of Pune district in Maharashtra, India. The trek offers a unique experience of hiking through the dense forests and grasslands of the region, and offers breathtaking views of the surrounding valleys and mountains.\n\n
+    The trek starts from the base village of Hadsar, which is accessible by road. The trail passes through a dense forest of teakwood and bamboo, and climbs up steep slopes and rocky terrain. The route is marked with signposts and arrows, making it easy to navigate.\n\n
+    As you climb higher, the views become more and more spectacular, with panoramic vistas of the surrounding valleys and mountain ranges. The trek culminates at the summit of Hadsar, which is at an altitude of 1,200 meters above sea level. From the top, you can see the beautiful landscape of the Western Ghats, and also the nearby Torna Fort and Rajgad Fort.\n\n
+    The trek is of moderate difficulty and can be completed in a day. It is advisable to carry plenty of water and some snacks for the journey. It is also recommended to wear comfortable clothes and sturdy shoes, and to carry a walking stick if required. Overall, the Hadsar trek is a great adventure for nature enthusiasts and trekking enthusiasts alike, and is definitely worth exploring if you are visiting Pune.
+    </string>
+
+    <string name="tamhini_about">\n Tamhini waterfall is a scenic waterfall located in the Tamhini Ghat region of the Sahyadri mountain range in Maharashtra, India. It is situated near the Tamhini village, around 70 km from Pune city. The waterfall is formed by the passage of the Ambi River through the mountain ranges and cascades down from a height of approximately 100 feet.\n\n
+    Tamhini waterfall is a popular tourist destination in the monsoon season, which is from June to September in this region. During the rainy season, the waterfall is at its peak and offers a mesmerizing view of the cascading water amidst the lush green forest. The surrounding hills and valleys enhance the beauty of the waterfall, making it a perfect spot for nature lovers and photography enthusiasts.\n\n
+    To reach Tamhini waterfall, visitors can take a scenic drive through the Tamhini Ghat region, which is known for its picturesque landscapes, waterfalls, and scenic viewpoints. The area is also home to a variety of flora and fauna, including numerous species of birds, making it an ideal destination for birdwatchers.\n\n
+    It is advisable to wear comfortable clothes and shoes while visiting the Tamhini waterfall, as the terrain can be uneven and slippery in some areas. Additionally, visitors should be careful while walking near the waterfall, as the rocks can be slippery and the water current can be strong.
+    </string>
+
+    <string name="korigad_about">\n Korigad is a hill fort located about 20 km away from Lonavala in Pune district, Maharashtra, India. It is a popular trekking destination in the region, known for its scenic beauty and historic significance.\n\n
+    The trek to Korigad fort starts from the village of Peth Shahpur, which is about 17 km away from Lonavala. It takes around 2-3 hours to reach the top of the fort. The trek is of moderate difficulty, with some steep patches that require careful footing.\n\n
+    At the top of the fort, one can see the ruins of the fortification walls, a few temples, and a large water tank. There is also a small plateau on the top, which offers a panoramic view of the surrounding hills and valleys.\n\n
+    The fort has a rich history, having been ruled by several dynasties over the centuries, including the Marathas and the British. It was used as a strategic base during several wars, including the Anglo-Maratha War and the Indian Rebellion of 1857.\n\n
+    Overall, Korigad trek is a great option for adventure seekers and history buffs alike, offering a glimpse into the regions rich cultural heritage and natural beauty.
+    </string>
+
+
+    <string name="sinhagad_places">\ 1) ISKCON Temple, Pune \n 2) Krushnai Water Park \n 3) Rajiv Gandhi Zoological Park</string>
+    <string name="rajmachi_places">1) Rajgad Fort: Approximately 85 kilometers from Rajmachi Fort. \n
+        2)Torna Fort: Approximately 100 kilometers from Rajmachi Fort. \n
+        3)Bhuleshwar Temple: Approximately 100 kilometers from Rajmachi Fort.</string>
+    <string name="rajgad_places">1) Torna Fort: Approximately 30 kilometers from Rajgad Fort. \n
+        2) Purandar Fort: Approximately 30 kilometers from Rajgad Fort. \n
+        3) Lal Mahal: Approximately 40 kilometers from Rajgad Fort.</string>
+    <string name="torna_places">1) Sinhagad Fort: Approximately 25 kilometers from Torna Fort.\n
+        2) Rajgad Fort: Approximately 30 kilometers from Torna Fort.\n
+        3) Purandar Fort: Approximately 40 kilometers from Torna Fort.</string>
+    <string name="purandar_places">1) Sinhagad Fort: Approximately 40 kilometers from Purandar Fort.\n
+        2) Rajgad Fort: Approximately 30 kilometers from Purandar Fort.\n
+        3) Torna Fort: Approximately 40 kilometers from Purandar Fort.</string>
+    <string name="shivneri_places">1) Aga Khan Palace: Approximately 90 kilometers from Shivneri Fort.\n
+        2) Lal Mahal: Approximately 130 kilometers from Shivneri Fort.</string>
+    <string name="aga_khan_places">1) Lal Mahal: Approximately 10 kilometers from Aga Khan Palace.\n
+        2) Shaniwarwada: Approximately 10 kilometers from Aga Khan Palace.\n
+        3) The National War Museum - approximately 12 kilometers from Aga Khan Palace.</string>
+    <string name="lal_mahal_places">1) Parvati Hill Temple: Approximately 3 kilometers from Lal Mahal.\n
+        2) Dagdusheth Halwai Ganpati: Approximately 4 kilometers from Lal Mahal.\n
+        3) Shaniwar Wada: Approximately 1 kilometer from Lal Mahal.</string>
+    <string name="malhargad_places">1) Bhuleshwar Temple: Approximately 30 kilometers from Malhargad Fort.\n
+        2) Jejuri Temple: Approximately 25 kilometers from Malhargad Fort.\n
+        3) Amruteshwar Mandir: Approximately 35 kilometers from Malhargad Fort.</string>
+    <string name="shaniwarwada_places">1) Raja Dinkar Kelkar Museum: Approximately 2 kilometers from Shaniwarwada./n
+        2) Sarasbaug Ganpati Temple: Approximately 3 kilometers from Shaniwarwada.\n
+        3) Pataleshwar Cave Temple: Approximately 4 kilometers from Shaniwarwada.</string>
+    <string name="taljai_places">1) ISKCON NVCC Temple: Approximately 5 kilometers from Taljai Hill.\n
+        2) Chaturshrungi Temple: Approximately 7 kilometers from Taljai Hill. \n
+        3) Katraj Snake Park: Approximately 8 kilometers from Taljai Hill.</string>
+    <string name="hadsar_places">1) Shivneri Fort: Approximately 20 kilometers from Hadsar Trek.\n
+        2) Alandi Temple: Approximately 60 kilometers from Hadsar Trek.\n
+        3) Prati Shirdi: Approximately 70 kilometers from Hadsar Trek.</string>
+    <string name="tamhini_places">1) Sinhagad Fort: Approximately 75 kilometers from Tamhini Waterfall.\n
+        2) Rajmachi Fort: Approximately 70 kilometers from Tamhini Waterfall.\n
+        3) Rajgad Fort: Approximately 70 kilometers from Tamhini Waterfall.</string>
+    <string name="korigad_places">1) Rajgad Fort: Approximately 40 kilometers from Korigad Trek.\n
+        2) Torna Fort: Approximately 35 kilometers from Korigad Trek.\n
+        3) Purandar Fort: Approximately 45 kilometers from Korigad Trek.</string>
+
+
+    <string name="sinhagad_hotels">1) Nitya Eco Family Resort and Farm House </string>
+    <string name="rajmachi_hotels">1) Rajmachi Base Camp </string>
+    <string name="rajgad_hotels">1) Hotel Tulajabhavani Rajgad Paytha Palkhurd </string>
+    <string name="torna_hotels">1) Hotel New RajMata </string>
+    <string name="purandar_hotels">1) Hotel Radha Krishna Residency </string>
+    <string name="shivneri_hotels">1) Shivneri Fort Vallry Resort </string>
+    <string name="aga_khan_hotels">- - -</string>
+    <string name="lal_mahal_hotels">- - -</string>
+    <string name="malhargad_hotels">- - -</string>
+    <string name="shaniwarwada_hotels">- - -</string>
+    <string name="taljai_hotels">1) FabHotel Gandharva Residency </string>
+    <string name="hadsar_hotels">1) SPOT ON Malshej Agro Resort </string>
+    <string name="tamhini_hotels">1) Bouganvilla Retreat Tamhini </string>
+    <string name="korigad_hotels">1) Green Fog Guesthouse </string>
+
+
+    <string name="sinhagad_helpline">\ 1) Sinhagad Police Station, Pune \n \ Telephone No.- 02024348270 \n 2) Sinhagad Speciality Hospital \n \ Contact No.- 06384495095 </string>
+    <string name="rajmachi_helpline">- - -</string>
+    <string name="rajgad_helpline">\ 1) Police station No.- +919552689100 \n 2) Hospital No.- 098506 04100 </string>
+    <string name="torna_helpline">\ 1)Police station No.- +919552813100 </string>
+    <string name="purandar_helpline">- - -</string>
+    <string name="shivneri_helpline">- - -</string>
+    <string name="aga_khan_helpline">- - -</string>
+    <string name="lal_mahal_helpline">- - -</string>
+    <string name="malhargad_helpline">- - -</string>
+    <string name="shaniwarwada_helpline">- - -</string>
+    <string name="taljai_helpline">- - -</string>
+    <string name="hadsar_helpline">- - -</string>
+    <string name="tamhini_helpline">- - -</string>
+    <string name="korigad_helpline">- - -</string>
+
+
+
+
+
+    <string name="dagdusheth_halwai_ganpati">Dagdusheth Halwai Ganpati</string>
+    <string name="parvati_hill_temple">Parvati Hill Temple</string>
+    <string name="patalshewar_cave_temple">Patalshewar Cave Temple</string>
+    <string name="shri_balaji_mandir">Shri Balaji Mandir</string>
+    <string name="chaturshringi_temple">Chaturshringi Temple</string>
+    <string name="sarasbaug_ganpati_temple">Sarasbaug Ganpati Temple</string>
+    <string name="dehu_temple">Dehu Temple</string>
+    <string name="iskcon_nvcc_temple">Iskcon nvcc Temple</string>
+    <string name="katraj_jain_temple">Katraj Jain Temple</string>
+    <string name="bhuleshwar_temple"> Bhuleshwar Temple</string>
+    <string name="prati_shirdi">Prati Shirdi</string>
+    <string name="alandi">Alandi</string>
+    <string name="khandoba_mandir">Khandoba Mandir,Jejuri</string>
+    <string name="st_marys_church"> St. Mary\'s Church</string>
+    <string name="bhimashankar_temple">Bhimashankar Temple</string>
+    <string name="baneshwar_temple">Baneshwar Temple</string>
+    <string name="prati_balaji_mandir">Prati Balaji Mandir</string>
+    <string name="amruteshwar_mandir">Amruteshwar Mandir</string>
+    <string name="katraj_snake_park">Katraj Snake Park</string>
+    <string name="rajiv_gandhi_zoological_park">Rajiv Gandhi Zoological Park</string>
+    <string name="baner_pashan_biodiversity_park">Baner Pashan Biodiversity Park</string>
+
+    <string name="dagdusheth_halwai_ganpati_type">Temple</string>
+    <string name="parvati_hill_temple_type">Temple</string>
+    <string name="patalshewar_cave_temple_type">Temple</string>
+    <string name="shri_balaji_mandir_type">Temple</string>
+    <string name="chaturshringi_temple_type">Temple</string>
+    <string name="sarasbaug_ganpati_temple_type">Temple</string>
+    <string name="dehu_temple_type">Temple</string>
+    <string name="iskcon_nvcc_temple_type">Temple</string>
+    <string name="katraj_jain_temple_type">Temple</string>
+    <string name="bhuleshwar_temple_type">Temple</string>
+    <string name="prati_shirdi_type">Temple</string>
+    <string name="alandi_type">Temple</string>
+    <string name="khandoba_mandir_type">Temple</string>
+    <string name="st_marys_church_type">Temple</string>
+    <string name="bhimashankar_temple_type">Temple</string>
+    <string name="baneshwar_temple_type">Temple</string>
+    <string name="prati_balaji_mandir_type">Temple</string>
+    <string name="amruteshwar_mandir_type">Temple</string>
+    <string name="katraj_snake_park_type">Wildlife Park</string>
+    <string name="rajiv_gandhi_zoological_park_type">Wildlife Park</string>
+    <string name="baner_pashan_biodiversity_park_type">Wildlife Park</string>
+
+    <string name="dagdusheth_halwai_ganpati_phone">- - -</string>
+    <string name="parvati_hill_temple_phone">- - -</string>
+    <string name="patalshewar_cave_temple_phone">- - -</string>
+    <string name="shri_balaji_mandir_phone">- - -</string>
+    <string name="chaturshringi_temple_phone">- - -</string>
+    <string name="sarasbaug_ganpati_temple_phone">- - -</string>
+    <string name="dehu_temple_phone">- - -</string>
+    <string name="iskcon_nvcc_temple_phone">- - -</string>
+    <string name="katraj_jain_temple_phone">- - -</string>
+    <string name="bhuleshwar_temple_phone">- - -</string>
+    <string name="prati_shirdi_phone">- - -</string>
+    <string name="alandi_phone">- - -</string>
+    <string name="khandoba_mandir_phone">- - -</string>
+    <string name="st_marys_church_phone">- - -</string>
+    <string name="bhimashankar_temple_phone">- - -</string>
+    <string name="baneshwar_temple_phone">- - -</string>
+    <string name="prati_balaji_mandir_phone">- - -</string>
+    <string name="amruteshwar_mandir_phone">- - -</string>
+    <string name="katraj_snake_park_phone">- - -</string>
+    <string name="rajiv_gandhi_zoological_park_phone">- - -</string>
+    <string name="baner_pashan_biodiversity_park_phone">- - -</string>
+
+    <string name="dagdusheth_halwai_ganpati_time">7.00am - 7.00pm</string>
+    <string name="parvati_hill_temple_time">7.00am - 7.00pm</string>
+    <string name="patalshewar_cave_temple_time">7.00am - 7.00pm</string>
+    <string name="shri_balaji_mandir_time">7.00am - 7.00pm</string>
+    <string name="chaturshringi_temple_time">7.00am - 7.00pm</string>
+    <string name="sarasbaug_ganpati_temple_time">7.00am - 7.00pm</string>
+    <string name="dehu_temple_time">7.00am - 7.00pm</string>
+    <string name="iskcon_nvcc_temple_time">7.00am - 7.00pm</string>
+    <string name="katraj_jain_temple_time">7.00am - 7.00pm</string>
+    <string name="bhuleshwar_temple_time">7.00am - 7.00pm</string>
+    <string name="prati_shirdi_time">7.00am - 7.00pm</string>
+    <string name="alandi_time">7.00am - 7.00pm</string>
+    <string name="khandoba_mandir_time">7.00am - 7.00pm</string>
+    <string name="st_marys_church_time">7.00am - 7.00pm</string>
+    <string name="bhimashankar_temple_time">7.00am - 7.00pm</string>
+    <string name="baneshwar_temple_time">7.00am - 7.00pm</string>
+    <string name="prati_balaji_mandir_time">7.00am - 7.00pm</string>
+    <string name="amruteshwar_mandir_time">7.00am - 7.00pm</string>
+    <string name="katraj_snake_park_time">7.00am - 7.00pm</string>
+    <string name="rajiv_gandhi_zoological_park_time">7.00am - 7.00pm</string>
+    <string name="baner_pashan_biodiversity_park_time">7.00am - 7.00pm</string>
+
+
+    <string name="dagdusheth_halwai_ganpati_address">Ganpati Bhavan, 250, Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra 411002</string>
+    <string name="parvati_hill_temple_address">Parvati Hill Temple, Parvati Paytha, Pune, Maharashtra 411009, India</string>
+    <string name="patalshewar_cave_temple_address">Pataleshwar Cave Temple, Jangali Maharaj Road, Shivajinagar, Pune, Maharashtra 411005, India</string>
+    <string name="shri_balaji_mandir_address">GV84+P57, Appa Balwant Chowk, Budhwar Peth, Pune, Maharashtra 411002</string>
+    <string name="chaturshringi_temple_address">Chaturshringi Temple, Chaturshringi Road, Model Colony, Shivajinagar, Pune, Maharashtra 411016, India</string>
+    <string name="sarasbaug_ganpati_temple_address">Sarasbaug Ganpati Temple, Sarasbaug, Parvati Paytha, Pune, Maharashtra 411009, India</string>
+    <string name="dehu_temple_address">Dehu Temple, Dehu, Pune, Maharashtra 412109, India</string>
+    <string name="iskcon_nvcc_temple_address">ISKCON NVCC Temple, Kondhwa-Saswad Road, Katraj, Pune, Maharashtra 411046, India</string>
+    <string name="katraj_jain_temple_address">Katraj Jain Temple, Satara Road, Katraj, Pune, Maharashtra 411046, India</string>
+    <string name="bhuleshwar_temple_address">Bhuleshwar Temple, Near Yavat, Pune, Maharashtra 412106, India</string>
+    <string name="prati_shirdi_address">Prati Shirdi, Shirgaon - Manchar Road, Shirgaon, Maharashtra 410503, India</string>
+    <string name="alandi_address">Alandi</string>
+    <string name="khandoba_mandir_address">Khandoba Mandir Road, Jejuri, Maharashtra 412303, India</string>
+    <string name="st_marys_church_address">St Mary\'s Church, Sholapur Road, 1-A, General Bhagat Marg, Camp, Pune, Maharashtra 411001</string>
+    <string name="bhimashankar_temple_address">A/p,bhimashankar Bhimashankar wadi Tal - khed , dist, Maharashtra 410509</string>
+    <string name="baneshwar_temple_address">7V4F+6MR, Baneshwar Temple Access Road, Nasrapur, Bhor, Maharashtra 412213</string>
+    <string name="prati_balaji_mandir_address">Prati Balaji Mandir,Kapurhol - Khamgaon Road,Ketkawale,Maharashtra 412106,India</string>
+    <string name="amruteshwar_mandir_address">82RH+25J, Sidhheshwar Colony, Saswad, Maharashtra 412301</string>
+    <string name="katraj_snake_park_address">Katraj - Kondhwa Road, Katraj, Pune, Maharashtra 411046, India</string>
+    <string name="rajiv_gandhi_zoological_park_address">Rajiv Gandhi Zoological Park, Pune - Satara Road, Near Bharati Vidyapeeth, Katraj, Pune, Maharashtra 411046, India</string>
+    <string name="baner_pashan_biodiversity_park_address">Baner-Pashan Link Road, Baner, Pune, Maharashtra 411021, India</string>
+
+    <string name="dagdusheth_halwai_ganpati_about">\n Dagdusheth Halwai Ganpati Temple, also known as Shrimant Dagdusheth Halwai Ganapati Temple, is a popular Hindu temple located in Pune, Maharashtra, India. The temple is dedicated to Lord Ganesha, the Hindu deity of wisdom, knowledge, and new beginnings.\n\n
+    The temple was established in 1893 by a sweet maker named Dagdusheth Halwai and his wife Lakshmibai, as a way to express their devotion to Lord Ganesha. The temple is built in a traditional Maharashtrian style of architecture and is adorned with beautiful carvings and decorations.\n\n
+    The main idol of Lord Ganesha at the Dagdusheth Halwai Ganpati Temple is adorned with gold and precious stones and is about 2.2 meters tall and 1 meter wide. The temple attracts a large number of devotees during the Ganesh Chaturthi festival, which is celebrated with great enthusiasm and fervor in Pune and other parts of Maharashtra.\n\n
+    The temple also runs various social welfare programs and charitable activities, such as providing free meals to the needy, supporting educational initiatives, and providing medical aid to the underprivileged.\n\n
+    Overall, Dagdusheth Halwai Ganpati Temple is a significant religious and cultural landmark in Pune and attracts a large number of devotees and tourists throughout the year.
+    </string>
+
+    <string name="parvati_hill_temple_about">\n Parvati Hill Temple is a popular Hindu temple located on Parvati Hill, one of the highest hills in Pune, Maharashtra, India. The temple is dedicated to the Hindu deities, Lord Shiva and Goddess Parvati.\n\n
+    The temple is believed to have been built during the rule of the Peshwa dynasty in the 18th century. The temple complex consists of five temples, each dedicated to different deities. The main temple is dedicated to Lord Shiva and is built in the Hemadpanthi style of architecture. The temple is adorned with intricate carvings and decorations and has a beautiful courtyard in front of it.\n\n
+    The Parvati Hill Temple offers a breathtaking panoramic view of the city of Pune and its surroundings. The hill is surrounded by lush greenery and is a popular spot for trekking and hiking among adventure enthusiasts. The temple complex also has a garden that is perfect for a leisurely stroll.\n\n
+    The temple attracts a large number of devotees and tourists throughout the year, especially during the Hindu festivals of Maha Shivaratri and Navratri. The temple is known for its peaceful and serene atmosphere, making it an ideal spot for those seeking spiritual and mental peace.\n\n
+    Overall, the Parvati Hill Temple is a must-visit destination for those visiting Pune and is an excellent example of the rich cultural and religious heritage of the city.
+    </string>
+
+    <string name="patalshewar_cave_temple_about">\n Pataleshwar Cave Temple is a rock-cut cave temple located in the heart of Pune city, Maharashtra, India. The temple is believed to have been built during the 8th century AD, during the reign of the Rashtrakuta dynasty.\n\n
+    The temple is dedicated to Lord Shiva and is carved out of a single basalt rock. The temple complex consists of a main shrine, a Nandi bull statue, a small shrine dedicated to Lord Ram, and a meditation hall. The temple is adorned with intricate carvings and sculptures of various Hindu deities, including Lord Shiva, Lord Ganesha, and Goddess Parvati.\n\n
+    The temple is located in a cave and has a narrow entrance that leads to a spacious courtyard. The main shrine has a Shiva Linga, a symbolic representation of Lord Shiva, and is surrounded by intricate carvings of Nandi, the bull that serves as Lord Shiva\'s vehicle. The meditation hall, also known as the Sabhamandap, has pillars adorned with carvings of various deities and is used for meditation and prayer.\n\n
+    The Pataleshwar Cave Temple is a popular destination for history and architecture enthusiasts and is an excellent example of the rock-cut architecture of ancient India. The temple attracts a large number of devotees and tourists throughout the year, especially during the Hindu festivals of Mahashivratri and Navratri.\n\n
+    Overall, the Pataleshwar Cave Temple is an important historical and cultural landmark in Pune city and is a must-visit destination for those interested in Indian history, architecture, and spirituality.</string>
+
+    <string name="shri_balaji_mandir_about">\n Shri Balaji Mandir is a Hindu temple located in the city of Pune, Maharashtra, India. The temple is dedicated to Lord Venkateswara, also known as Balaji, a form of Lord Vishnu.\n\n
+    The temple was built in 1998 by a group of devotees who wanted to establish a temple dedicated to Lord Venkateswara in Pune. The temple\'s architecture is based on the famous Tirumala Venkateswara Temple in Andhra Pradesh and is built in the South Indian Dravidian style.\n\n
+    The main shrine of the temple houses an idol of Lord Venkateswara, which is made of black stone and is about 4 feet tall. The idol is adorned with gold ornaments, and the sanctum sanctorum is decorated with intricate carvings and sculptures of various Hindu deities.\n\n
+    The temple celebrates various Hindu festivals throughout the year, including Brahmotsavam, Vaikunta Ekadasi, and Annakut. The temple also provides various services for the devotees, including free meals, accommodation, and transportation.\n\n
+    Shri Balaji Mandir is a popular destination for devotees of Lord Venkateswara and other Hindu deities in Pune and surrounding areas. The temple is known for its peaceful atmosphere and spiritual energy, making it a must-visit destination for those seeking a spiritual experience in Pune.
+    </string>
+
+    <string name="chaturshringi_temple_about">\n Chaturshringi Temple is a Hindu temple located in the city of Pune, Maharashtra, India. The temple is dedicated to the goddess Chaturshringi, also known as Goddess Ambareshwari.\n\n
+    The temple is situated on a hill, and the main shrine is carved out of a rock cliff. The temple is built in the traditional North Indian Nagara style of architecture and is known for its unique design, which includes four peaks that give the temple its name.\n\n
+    The temple complex also includes smaller shrines dedicated to other Hindu deities, including Lord Ganesha, Lord Hanuman, and Lord Shiva. The temple has a large hall for conducting religious ceremonies and events, and a separate hall for serving prasad, the offering given to the deity and distributed to the devotees as a blessing.\n\n
+    The temple celebrates various Hindu festivals throughout the year, including Navratri and Diwali. The temple also hosts an annual fair during Navratri, which attracts a large number of devotees and tourists from all over the country.\n\n
+    Chaturshringi Temple is a popular destination for devotees of the goddess Chaturshringi and other Hindu deities in Pune and surrounding areas. The temple is known for its beautiful location and serene atmosphere, making it a must-visit destination for those seeking a spiritual experience in Pune.
+    </string>
+
+    <string name="sarasbaug_ganpati_temple_about">\n Sarasbaug Ganpati Temple is a popular Hindu temple located in Pune, Maharashtra, India. The temple is dedicated to Lord Ganesha, one of the most revered deities in Hinduism.\n\n
+    The temple is situated in the middle of a beautiful garden named Saras Baug, which is spread over an area of about 25 acres. The garden is a popular spot for locals and tourists to relax and enjoy the natural beauty. The temple is located on a small hill in the garden, and visitors need to climb a flight of stairs to reach the temple.\n\n
+    The temple is built in the traditional North Indian Nagara style of architecture, and it has a sanctum sanctorum that houses a beautiful idol of Lord Ganesha, which is adorned with gold and silver ornaments. The temple complex also includes smaller shrines dedicated to other Hindu deities, including Lord Shiva and Goddess Durga.\n\n
+    The temple celebrates various Hindu festivals throughout the year, including Ganesh Chaturthi, which is the biggest festival celebrated at the temple. During the festival, the temple is decorated with lights and flowers, and a large number of devotees come to offer their prayers to Lord Ganesha.
+    Sarasbaug Ganpati Temple is a popular destination for devotees of Lord Ganesha and other Hindu deities in Pune and surrounding areas. The temple is known for its beautiful location and peaceful atmosphere, making it a must-visit destination for those seeking a spiritual experience in Pune.
+    </string>
+
+    <string name="dehu_temple_about">\n Dehu Temple is a revered Hindu temple located in the village of Dehu, near Pune in Maharashtra, India. The temple is dedicated to Saint Tukaram, one of the most famous saints of the Bhakti movement in Maharashtra.\n\n
+    The temple is built in the traditional style of architecture of Maharashtra, with a beautiful main hall and a prayer hall. The temple complex also houses several smaller shrines dedicated to other Hindu deities, including Lord Vitthal and Goddess Rukmini. The temple is surrounded by a peaceful and serene environment, with lush green trees and gardens providing a sense of tranquility and calm.\n\n
+    The temple is a popular destination for devotees of Saint Tukaram and other Hindu deities, who come here to offer their prayers and seek blessings. The temple celebrates several festivals throughout the year, including the birth anniversary of Saint Tukaram, which is celebrated with great enthusiasm and devotion by the local community.\n\n
+    The temple has a rich history and is closely associated with the life and teachings of Saint Tukaram. The saint lived in the village of Dehu and composed many of his famous abhangs (devotional poems) in praise of Lord Vitthal and other Hindu deities. The temple is a testimony to the life and teachings of Saint Tukaram, and his message of love, compassion, and devotion still resonates with devotees today.\n\n
+    Dehu Temple is a must-visit destination for those seeking a spiritual experience in Pune. The temple\'s serene surroundings and peaceful atmosphere offer visitors a sense of calm and tranquility, making it an ideal place to meditate and seek solace.
+    </string>
+
+    <string name="iskcon_nvcc_temple_about">\n The ISKCON NVCC Temple, located in Pune, Maharashtra, India, is a beautiful and well-known temple of the International Society for Krishna Consciousness (ISKCON). It is dedicated to Lord Krishna and his consort, Radha, and attracts a large number of devotees and tourists from all over the world.\n\n
+    The temple is built in a traditional architectural style and features intricate carvings and sculptures that depict various episodes from the life of Lord Krishna. The temple complex includes a main hall, a prayer hall, a restaurant, a library, and a gift shop. The temple is surrounded by lush green gardens and offers a peaceful and serene atmosphere to its visitors.\n\n
+    The temple celebrates various festivals throughout the year, including Janmashtami, the birthday of Lord Krishna, which is celebrated with great enthusiasm and devotion by the local community. The temple also hosts several cultural events, such as music and dance performances, which attract a large number of tourists and devotees.\n\n
+    The ISKCON NVCC Temple is known for its spiritual teachings and offers several programs and activities for those seeking a deeper understanding of the teachings of Lord Krishna. The temple provides classes on the Bhagavad Gita, the sacred text of the Hindus, and organizes regular kirtans (devotional singing) and bhajans (devotional songs) to engage devotees in the worship of Lord Krishna.\n\n
+    Overall, the ISKCON NVCC Temple is a must-visit destination for those seeking a spiritual experience in Pune. Its peaceful surroundings, beautiful architecture, and devotion to Lord Krishna offer visitors a unique and memorable experience.
+    </string>
+
+    <string name="katraj_jain_temple_about">\n The Katraj Jain Temple is a popular pilgrimage destination located in Pune, Maharashtra, India. The temple is dedicated to Lord Mahaveer, the 24th Tirthankara of the Jain religion. It is situated on a hill in Katraj, a suburb of Pune, and offers a panoramic view of the city.\n\n
+    The temple complex comprises of several shrines, each dedicated to different deities in the Jain religion. The main shrine is dedicated to Lord Mahaveer and is adorned with beautiful carvings and sculptures. The temple also has a large hall for religious gatherings and a meditation hall for visitors to meditate and reflect.\n\n
+    The temple is surrounded by a beautiful garden and offers a peaceful and serene atmosphere to its visitors. The garden features several beautiful fountains, flowers, and trees, making it a perfect spot for a peaceful and relaxing stroll. The temple also has a cafeteria that serves delicious Jain food and refreshments.\n\n
+    The Katraj Jain Temple is known for its annual Mahavir Jayanti celebrations, which are held with great pomp and show. The celebrations include special prayers, processions, and cultural programs, which attract a large number of devotees and tourists from all over the world.\n\n
+    Overall, the Katraj Jain Temple is a must-visit destination for those seeking a spiritual experience in Pune. Its beautiful architecture, peaceful surroundings, and devotion to Lord Mahaveer offer visitors a unique and memorable experience.
+    </string>
+
+    <string name="bhuleshwar_temple_about">\n The Bhuleshwar Temple is a beautiful and ancient temple dedicated to Lord Shiva, located near the village of Yavat, about 50 km from Pune, Maharashtra, India. The temple is situated on a hilltop and is known for its stunning architecture and beautiful carvings.\n\n
+    The temple is believed to have been built during the 13th century, during the reign of the Yadava dynasty. The temple is surrounded by a beautiful landscape of hills, greenery, and fields, making it a popular destination for nature lovers and photography enthusiasts.\n\n
+    The Bhuleshwar Temple is a unique example of ancient Indian rock-cut architecture. The temple is built using basalt rock, which has been intricately carved to create beautiful patterns and designs. The temple also features beautiful sculptures of Lord Shiva, Nandi, and other deities of the Hindu religion.\n\n
+    The Bhuleshwar Temple is a popular pilgrimage site for devotees of Lord Shiva, who come from all over India to offer prayers and seek blessings. The temple is also a popular destination for tourists, who come to admire its beautiful architecture and soak in its peaceful and serene atmosphere.\n\n
+    Overall, the Bhuleshwar Temple is a unique and beautiful destination that offers visitors a glimpse into the rich cultural heritage of India. Its stunning architecture, beautiful carvings, and mystical aura make it a must-visit destination for those seeking a spiritual experience in Pune.
+    </string>
+
+    <string name="prati_shirdi_about">\n Prati Shirdi temple is a popular pilgrimage site located in the town of Shirgaon, near Pune in Maharashtra, India. The temple is dedicated to the famous Sai Baba of Shirdi and is a replica of the original Shirdi Sai Baba temple located in Shirdi, Maharashtra.\n\n
+    The temple complex consists of a main temple building, a meditation hall, a library, and several other facilities for devotees. The temple building houses a beautiful idol of Sai Baba, which is made of marble and stands at a height of 5 feet. The temple also has idols of Lord Ganesha, Lord Shiva, and other Hindu deities.\n\n
+    The temple is known for its peaceful and serene atmosphere, which attracts a large number of devotees and tourists every year. The meditation hall is a popular spot for visitors seeking spiritual enlightenment and peace of mind.\n\n
+    The temple complex also has a beautiful garden, which adds to the serene and peaceful atmosphere of the temple. The garden is decorated with beautiful flowers, and visitors can take a leisurely stroll and enjoy the beauty of nature.\n\n
+    Overall, the Prati Shirdi temple is a beautiful and serene destination that offers visitors a spiritual experience and a glimpse into the rich cultural heritage of India. Its beautiful architecture, peaceful atmosphere, and range of facilities make it a must-visit destination for those seeking a spiritual experience in Pune.
+    </string>
+
+    <string name="alandi_about">\n The Alandi Temple is a famous Hindu pilgrimage site located in Alandi, a town situated on the banks of the Indrayani River near Pune, Maharashtra, India. The temple is dedicated to the great saint and poet Sant Dnyaneshwar, who is believed to have lived in Alandi for many years and composed his famous work, the Dnyaneshwari, here.\n\n
+    The temple complex consists of several buildings, including the main temple building, a meditation hall, and a library. The main temple building houses a beautiful idol of Sant Dnyaneshwar, which is made of black stone and stands at a height of 6 feet. The temple also has idols of Lord Ganesha, Lord Shiva, and other Hindu deities.\n\n
+    The Alandi Temple is known for its peaceful and spiritual atmosphere, which attracts a large number of devotees and tourists every year. The meditation hall is a popular spot for visitors seeking spiritual enlightenment and peace of mind.\n\n
+    The temple complex also has a beautiful garden, which adds to the serene and peaceful atmosphere of the temple. The garden is decorated with beautiful flowers, and visitors can take a leisurely stroll and enjoy the beauty of nature.\n\n
+    Overall, the Alandi Temple is a beautiful and serene destination that offers visitors a spiritual experience and a glimpse into the rich cultural heritage of India. Its beautiful architecture, peaceful atmosphere, and range of facilities make it a must-visit destination for those seeking a spiritual experience in Pune.
+    </string>
+
+    <string name="khandoba_mandir_about">\n Jejuri Temple is a famous Hindu temple located in the small town of Jejuri in the Pune district of Maharashtra, India. The temple is dedicated to Lord Khandoba, who is considered to be the patron deity of Maharashtra and is worshiped in various forms throughout the state.\n\n
+    The temple complex is situated on a hill and offers panoramic views of the surrounding landscape. It consists of several buildings, including the main temple, a meditation hall, and a large courtyard. The main temple is decorated with beautiful carvings and paintings and houses the idol of Lord Khandoba.\n\n
+    The idol of Lord Khandoba is depicted as a warrior god, with a sword in one hand and a shield in the other. The temple also has idols of Lord Ganesh, Lord Hanuman, and other Hindu deities.\n\n
+    Jejuri Temple is known for its unique and vibrant celebration of the Bhandara festival, which takes place annually in March or April. During the festival, the temple is decorated with colorful flags and lights, and devotees gather to offer prayers and participate in various rituals.\n\n
+    The temple is also famous for its steep stone steps, which lead up to the main temple. Visitors can climb the steps and enjoy the beautiful views of the surrounding countryside.\n\n
+    Jejuri Temple is a popular destination for tourists and devotees alike. Its beautiful architecture, stunning views, and unique cultural heritage make it a must-visit destination for those traveling to Pune.
+    </string>
+
+    <string name="st_marys_church_about">\n St. Mary\'s Church is one of the oldest and most prominent churches located in Pune, Maharashtra, India. It is also known as the Mother Church of the Deccan and is considered to be a landmark of the city. The church was built in 1825 by the British East India Company and was consecrated in 1826.\n\n
+    The architecture of the church is a blend of Gothic and Neoclassical styles, with a tall spire that rises over 200 feet into the air. The church also features beautiful stained-glass windows that depict biblical scenes and intricate carvings on its wooden doors and pews.\n\n
+    Inside the church, visitors can see the ornate altar, which is decorated with marble statues and intricate carvings. The church also has a pipe organ that was built in the 19th century and is still in use today.\n\n
+    St. Mary\'s Church has played an important role in the history of Pune, as it was used as a military hospital during the Indian Rebellion of 1857. The church has also witnessed significant events in the history of India, such as the coronation of King George V and Queen Mary in Delhi in 1911.\n\n
+    Today, St. Mary\'s Church is an active place of worship and welcomes visitors from all faiths. It is also a popular tourist attraction in Pune and is known for its beautiful architecture and serene atmosphere.
+    </string>
+
+    <string name="bhimashankar_temple_about">\n Bhimashankar temple is a Hindu temple located in the village of Bhorgiri in Pune district, Maharashtra, India. It is one of the 12 Jyotirlingas and is considered to be one of the holiest places in India. The temple is dedicated to Lord Shiva and is situated at an altitude of 3,250 feet in the Sahyadri Mountains.\n\n
+    The temple has a unique architecture with intricate carvings on the walls and pillars. The temple complex also houses several other smaller temples dedicated to Lord Vishnu, Lord Ganesha, and other deities.\n\n
+    Apart from its religious significance, Bhimashankar is also a popular trekking destination with several trekking trails leading to the temple. The trek to Bhimashankar is a moderate level trek and takes around 4-5 hours to complete.\n\n
+    The temple is surrounded by lush green forests and is home to several species of flora and fauna, including the Indian giant squirrel and the Malabar grey hornbill. The Bhimashankar Wildlife Sanctuary is located near the temple and is home to several species of wildlife, including the Indian leopard, Indian bison, and sambar deer.\n\n
+    The temple attracts thousands of devotees every year, especially during the Mahashivratri festival. The best time to visit Bhimashankar is from November to February when the weather is cool and pleasant.
+    </string>
+
+    <string name="baneshwar_temple_about">\n Baneshwar Temple is an ancient Hindu temple located in the Nasrapur region of Pune district in Maharashtra, India. The temple is dedicated to Lord Shiva and is believed to have been built during the reign of the Yadava dynasty in the 13th century.\n\n
+    The temple is located amidst lush green surroundings and is situated on the banks of the river Baneshwar. The temple has a beautiful architecture and is built in the Hemadpanthi style of architecture. It is surrounded by a large courtyard, which is adorned with small shrines dedicated to various deities. The temple has a sanctum sanctorum, a mandap and a sabha mandap.\n\n
+    Baneshwar temple is famous for the annual fair held during the Mahashivratri festival, which attracts a large number of devotees from all over the region. During the fair, a grand procession of Lord Shiva is taken out in the village, which is accompanied by traditional music and dance performances.\n\n
+    The temple is also a popular spot for picnics and day outings due to its serene and scenic surroundings. Visitors can enjoy a dip in the river or take a stroll in the nearby forests. The temple is easily accessible by road and is around 40 km from Pune city.
+    </string>
+
+    <string name="prati_balaji_mandir_about">\n Prati Balaji Mandir, also known as the Mini Tirupati, is a temple dedicated to Lord Venkateshwara, located in Ketkawale village near Pune. The temple is a replica of the Tirumala Venkateswara Temple in Andhra Pradesh and is built on a sprawling campus of over 10 acres. The temple is a popular pilgrimage site in the region and attracts thousands of devotees every year.\n\n
+    The temple complex comprises the main temple, a meditation hall, a prasadam hall, and several other smaller shrines dedicated to various deities. The main temple is built in the traditional South Indian style of architecture and is adorned with intricate carvings and sculptures. The idol of Lord Venkateshwara in the main temple is said to be an exact replica of the one in the Tirumala temple.\n\n
+    The temple also houses a beautiful garden and a large pond, adding to its serene ambiance. The temple authorities conduct various religious and cultural events throughout the year, including festivals like Janmashtami and Navratri. The temple is open to visitors from early morning till late evening, and offers facilities like prasadam distribution, cloakroom, and parking for visitors.
+    </string>
+
+    <string name="amruteshwar_mandir_about">\n Sangameshwar Temple is a Hindu temple located in the town of Saswad in Pune district of Maharashtra, India. The temple is dedicated to Lord Shiva and is considered one of the oldest and most prominent temples in the region. The temple complex also includes shrines dedicated to other Hindu deities such as Lord Vishnu, Lord Ganesha, and Lord Hanuman.\n\n
+        The architecture of the temple is a fine example of the Hemadpanthi style, which was popular in the region during the medieval period. The temple is located at the confluence of two rivers, Karhe and Chambli, which adds to its scenic beauty. The temple attracts a large number of devotees and visitors, especially during the annual Mahashivaratri festival.
+    </string>
+
+    <string name="katraj_snake_park_about">\n The Katraj Snake Park is a popular zoo and snake park located in Pune, Maharashtra, India. The park is home to a large variety of snakes, reptiles, and other animals, and is a popular tourist attraction in the city.\n\n
+    The snake park was established in 1986 with the aim of conserving and breeding different species of snakes. It is home to over 22 species of snakes, including King Cobras, Pythons, Vipers, and various species of rat snakes. The park also houses other reptiles such as crocodiles, turtles, and tortoises.\n\n
+    The park is spread across 10 acres of land and is divided into several sections, including a snake enclosure, a reptile enclosure, an amphibian enclosure, and a bird enclosure. Visitors can learn about the different species of animals at the park and their habitats through informative displays and interactive exhibits.\n\n
+    Apart from the animal exhibits, the park also has a museum that showcases the different species of snakes found in India and their importance in Indian mythology and culture. Visitors can also watch a live demonstration of snake handling by trained professionals at the park.\n\n
+    Overall, the Katraj Snake Park is a must-visit attraction for animal lovers and those interested in learning about the different species of snakes and other reptiles found in India.
+    </string>
+
+    <string name="rajiv_gandhi_zoological_park_about">\n The Rajiv Gandhi Zoological Park, also known as the Pune Zoo, is a popular wildlife park and zoo located in Pune, Maharashtra, India. The zoo was established in 1999 and is spread across an area of 130 acres. It is a popular tourist attraction in Pune and is home to a wide variety of animals and birds from different parts of the world.\n\n
+    The zoo is divided into several sections based on the different types of animals housed in them. There is a herbivore section, a carnivore section, a reptile section, and an aviary section. The herbivore section houses animals such as giraffes, zebras, deer, and antelopes. The carnivore section is home to lions, tigers, leopards, and other big cats. The reptile section houses various species of snakes, turtles, and crocodiles. The aviary section is home to different species of birds, including parrots, eagles, and owls.\n\n
+    One of the highlights of the zoo is the 42-acre wilderness park that is home to animals such as wolves, jackals, hyenas, and wild boars. The park also has a butterfly garden that houses various species of butterflies and moths.\n\n
+    Apart from the animal exhibits, the zoo also has a snake park, a children\'s park, and a toy train that takes visitors around the zoo. There is also a cafeteria and souvenir shop for visitors.\n\n
+    Overall, the Rajiv Gandhi Zoological Park is a great place to visit for wildlife enthusiasts and families with children. It provides a great opportunity to learn about different species of animals and birds and their habitats.
+    </string>
+
+    <string name="baner_pashan_biodiversity_park_about">\n The Baner-Pashan Biodiversity Park is a unique park located in Pune, Maharashtra, India. The park is spread over 17 acres and is a great example of a successful initiative to convert a landfill site into a lush green biodiversity park. The park was established in 2013 and has since become a popular destination for nature lovers, bird watchers, and families looking for a peaceful and green place to spend time in.\n\n
+    The Baner-Pashan Biodiversity Park is home to a wide variety of plants and animals, including more than 90 species of birds. The park has a diverse range of habitats, including grasslands, wetlands, and forested areas. Some of the bird species found in the park include kingfishers, eagles, flycatchers, and woodpeckers. There are also several species of butterflies and insects that can be seen in the park.\n\n
+    The park has several walking trails and paths that visitors can use to explore the park. There are also several benches and seating areas where visitors can relax and enjoy the surroundings. The park has a small pond that attracts several species of birds and is a popular spot for bird watching.\n\n
+    Apart from being a great place to relax and enjoy nature, the Baner-Pashan Biodiversity Park is also an important educational resource. The park regularly conducts nature walks, bird watching tours, and other educational activities to raise awareness about the importance of biodiversity conservation and to promote sustainable living practices.\n\n
+    Overall, the Baner-Pashan Biodiversity Park is a must-visit destination for nature lovers and anyone interested in biodiversity conservation. It is a great example of how even a landfill site can be transformed into a beautiful and thriving ecosystem.
+    </string>
+
+    <string name="dagdusheth_halwai_ganpati_places">1) Shaniwarwada: Approximately 1 kilometer from Dagdusheth Halwai Temple.\n
+        2) Raja Dinkar Kelkar Museum: Approximately 2 kilometers from Dagdusheth Halwai Temple.\n
+        3) Lal Mahal: Approximately 1 kilometer from Dagdusheth Halwai Temple.</string>
+    <string name="parvati_hill_temple_places">1) Rajiv Gandhi Zoological Park: Approximately 9 kilometers from Parvati Hill.\n
+        2) Taljai Hills: Approximately 5 kilometers from Parvati Hill.\n
+        3) Josh\'s Museum of Miniature Railways: Approximately 4 kilometers from Parvati Hill.</string>
+    <string name="patalshewar_cave_temple_places">1) Aga Khan Palace: Approximately 9 kilometers from Pataleshwar Cave Temple.\n
+        2) Baner Pashan Biodiversity Park: Approximately 11 kilometers from Pataleshwar Cave Temple.\n
+        3) Shri Balaji Mandir: Approximately 10 kilometers from Pataleshwar Cave Temple.</string>
+    <string name="shri_balaji_mandir_places">1) Raja Dinkar Kelkar Museum: Approximately 10 kilometers from Shri Balaji Mandir.\n
+        2) Sarasbaug Ganpati Temple: Approximately 3 kilometers from Shri Balaji Mandir.\n
+        3) Shaniwar Wada: Approximately 9 kilometers from Shri Balaji Mandir.</string>
+    <string name="chaturshringi_temple_places">1) Shaniwar Wada: Approximately 6 kilometers from Chaturshrungi Temple.\n
+        2) Dagdusheth Halwai Ganapati Temple: Approximately 7 kilometers from Chaturshrungi Temple.\n
+        3) Lal Mahal is approximately 6 kilometers from Chaturshrungi Temple.</string>
+    <string name="sarasbaug_ganpati_temple_places">1) Dagdusheth Halwai Ganapati Temple: Approximately 1 kilometer from Sarabaug Ganpati Temple.\n
+        2) Raja Dinkar Kelkar Museum: Approximately 2.5 kilometers from Sarabaug Ganpati Temple.\n
+        3) Pataleshwar Cave Temple: Approximately 3 kilometers from Sarabaug Ganpati Temple.</string>
+    <string name="dehu_temple_places">1) Alandi Temple: Approximately 11 kilometers from Dehu Temple.\n
+        2) Lal Mahal: Approximately 20 kilometers from Dehu Temple.\n
+        3) Dagdusheth Halwai Ganapati Temple: Approximately 22 kilometers from Dehu Temple.\n
+</string>
+    <string name="iskcon_nvcc_temple_places">1) Sri Balaji Mandir: Approximately 13 kilometers from ISKCON NVCC Temple.\n
+        2) Dagdusheth Halwai Ganapati Temple: Approximately 11 kilometers from ISKCON NVCC Temple.\n
+        3) Katraj Snake Park: Approximately 7 kilometers from ISKCON NVCC Temple.</string>
+    <string name="katraj_jain_temple_places">1) Sri Balaji Mandir: Approximately 6 kilometers from Katraj Jain Temple.\n
+        2) Dagdusheth Halwai Ganapati Temple: Approximately 12 kilometers from Katraj Jain Temple.\n
+        3) Katraj Snake Park: Approximately 2 kilometers from Katraj Jain Temple.\n
+</string>
+    <string name="bhuleshwar_temple_places">1) Purandar Fort: Approximately 22 kilometers from Bhuleshwar Temple.\n
+        2) Jejuri Temple: Approximately 17 kilometers from Bhuleshwar Temple.\n
+        3) Amruteshwar Mandir Saswad: Approximately 27 kilometers from Bhuleshwar Temple.</string>
+    <string name="prati_shirdi_places">1) Bhimashankar Temple: Approximately 13 kilometers from Prati Shirdi.\n
+        2) Alandi: Approximately 17 kilometers from Prati Shirdi.\n
+        3) Dehu Temple: Approximately 20 kilometers from Prati Shirdi.</string>
+    <string name="alandi_places">1) Bhimashankar Temple: Approximately 62 kilometers from Alandi.\n
+        2) Dehu Temple: Approximately 17 kilometers from Alandi.\n
+        3) Aga Khan Palace: Approximately 18 kilometers from Alandi.</string>
+    <string name="khandoba_mandir_places">1) Bhuleshwar Temple: Approximately 3 kilometers from Khandoba Mandir Jejuri.\n
+        2) Purandar Fort: Approximately 8 kilometers from Khandoba Mandir Jejuri.\n
+        3) Malhargad Fort: Approximately 11 kilometers from Khandoba Mandir Jejuri.</string>
+    <string name="st_marys_church_places">1) National War Museum: Approximately 3 kilometers from St. Mary\'s Church.\n
+        2) Lal Mahal: Approximately 2 kilometers from St. Mary\'s Church.\n
+        3) Raja Dinkar Kelkar Museum: Approximately 4 kilometers from St. Mary\'s Church.</string>
+    <string name="bhimashankar_temple_places">1) Shivneri Fort: Approximately 64 kilometers from Bhimashankar Temple.\n
+        2) Prati Shirdi: Approximately 47 kilometers from Bhimashankar Temple.\n
+        3) Hadsar Trek: Approximately 19 kilometers from Bhimashankar Temple.\n
+</string>
+    <string name="baneshwar_temple_places">1) Rajgad Fort: Approximately 27 kilometers from Baneshwar Temple.\n
+        2) Torna Fort: Approximately 40 kilometers from Baneshwar Temple.\n
+        3) Prati Balaji Mandir Ketkawale: Approximately 11 kilometers from Baneshwar Temple.</string>
+    <string name="prati_balaji_mandir_places">1) Jejuri Temple: Approximately 13 kilometers from Prati Balaji Mandir in Ketkawale.\n
+        2) Amruteshwar Mandir Saswad: Approximately 22 kilometers from Prati Balaji Mandir in Ketkawale.\n
+        3) Purandar Fort: Approximately 15 kilometers from Prati Balaji Mandir in Ketkawale.</string>
+    <string name="amruteshwar_mandir_places">1) Malhargad Fort: Approximately 12 kilometers from Amruteshwar Mandir in Saswad.\n
+        2) Jejuri Mandir: Approximately 40 kilometers from Amruteshwar Mandir in Saswad.\n
+        3) Purandar Fort: Approximately 25 kilometers from Amruteshwar Mandir in Saswad.</string>
+    <string name="katraj_snake_park_places">1) Katraj Jain Temple: Approximately 1 kilometer from Katraj Snake Park.\n
+        2) ISKCON NVCC Temple: Approximately 3 kilometers from Katraj Snake Park.\n
+        3) Taljai Hills: Approximately 5 kilometers from Katraj Snake Park.</string>
+    <string name="rajiv_gandhi_zoological_park_places">1) Parvati Hill: Approximately 8 kilometers from Rajiv Gandhi Zoological Park.\n
+        2) Sinhagad Fort: Approximately 25 kilometers from Rajiv Gandhi Zoological Park.\n
+        3) Shaniwar Wada: Approximately 9 kilometers from Rajiv Gandhi Zoological Park.</string>
+    <string name="baner_pashan_biodiversity_park_places">1) Katraj Jain Temple: Approximately 13 kilometers from Baner Pashan Biodiversity Park.\n
+        2) Dagdusheth Halwai Ganpati: Approximately 11 kilometers from Baner Pashan Biodiversity Park.\n
+        3) Shri Balaji Mandir: Approximately 8 kilometers from Baner Pashan Biodiversity Park</string>
+
+    <string name="dagdusheth_halwai_ganpati_hotels"> Hotel Aurora Towers </string>
+    <string name="parvati_hill_temple_hotels">The President Hotel - Banquets - Restaurant </string>
+    <string name="patalshewar_cave_temple_hotels"> Hotel Amol </string>
+    <string name="shri_balaji_mandir_hotels"> Hotel Basera </string>
+    <string name="chaturshringi_temple_hotels"> The Pride Hotel Pune </string>
+    <string name="sarasbaug_ganpati_temple_hotels"> Hotel Ketan </string>
+    <string name="dehu_temple_hotels"> Banquets at Sayaji Hotel, Pune </string>
+    <string name="iskcon_nvcc_temple_hotels"> Hotel HMR Royal Inn </string>
+    <string name="katraj_jain_temple_hotels"> - - - </string>
+    <string name="bhuleshwar_temple_hotels"> - - - </string>
+    <string name="prati_shirdi_hotels"> - - - </string>
+    <string name="alandi_hotels"> SPOT ON 76834 Hotel Sai Kiran </string>
+    <string name="khandoba_mandir_hotels"> Hotel Malhar Inn </string>
+    <string name="st_marys_church_hotels"> Town Plaza Hotel and Banquets </string>
+    <string name="bhimashankar_temple_hotels"> Hotel Shiv Tirth and Lodging </string>
+    <string name="baneshwar_temple_hotels"> Shivraj Lodge and Restaurant </string>
+    <string name="prati_balaji_mandir_hotels"> - - - </string>
+    <string name="amruteshwar_mandir_hotels"> - - - </string>
+    <string name="katraj_snake_park_hotels"> The Orchid Hotel </string>
+    <string name="rajiv_gandhi_zoological_park_hotels"> The Corinthians Resort and Club </string>
+    <string name="baner_pashan_biodiversity_park_hotels"> Hotel Mint MontVert </string>
+
+    <string name="dagdusheth_halwai_ganpati_helpline">- - -</string>
+    <string name="parvati_hill_temple_helpline">- - -</string>
+    <string name="patalshewar_cave_temple_helpline">- - -</string>
+    <string name="shri_balaji_mandir_helpline">- - -</string>
+    <string name="chaturshringi_temple_helpline">- - -</string>
+    <string name="sarasbaug_ganpati_temple_helpline">- - -</string>
+    <string name="dehu_temple_helpline">- - -</string>
+    <string name="iskcon_nvcc_temple_helpline">- - -</string>
+    <string name="katraj_jain_temple_helpline">- - -</string>
+    <string name="bhuleshwar_temple_helpline">- - -</string>
+    <string name="prati_shirdi_helpline">- - -</string>
+    <string name="alandi_helpline">- - -</string>
+    <string name="khandoba_mandir_helpline">- - -</string>
+    <string name="st_marys_church_helpline">- - -</string>
+    <string name="bhimashankar_temple_helpline">- - -</string>
+    <string name="baneshwar_temple_helpline">- - -</string>
+    <string name="prati_balaji_mandir_helpline">- - -</string>
+    <string name="amruteshwar_mandir_helpline">- - -</string>
+    <string name="katraj_snake_park_helpline">- - -</string>
+    <string name="rajiv_gandhi_zoological_park_helpline">- - -</string>
+    <string name="baner_pashan_biodiversity_park_helpline">- - -</string>
+
+
+
+
+
+
+
+    <string name="panshet_water_park">Panshet Water Park</string>
+    <string name="diamond_water_park">Diamond Water Park</string>
+    <string name="appu_ghar">Appu Ghar</string>
+    <string name="krushnai_water_park">krushnai Water Park and Resort</string>
+    <string name="splash_mountain_park">Splash Mountain Water Park</string>
+    <string name="manali_resort">Manali Resort Pune</string>
+    <string name="national_war_museum">National War Museum</string>
+    <string name="mahatma_phule_museum">Mahatma Phule Museum</string>
+    <string name="raja_dinkar_kelkar_museum">Raja Dinkar Kelkar Museum</string>
+    <string name="joshs_museum">Josh\'s Museum of Miniature Railways</string>
+    <string name="peshwa_udyan">Peshwa Udyan</string>
+    <string name="tribal_museum">Tribal Museum</string>
+
+
+    <string name="panshet_water_park_type">Water Park</string>
+    <string name="diamond_water_park_type">Water Park</string>
+    <string name="appu_ghar_type">Amusement Park</string>
+    <string name="krushnai_water_park_type">Water Park and Resort</string>
+    <string name="splash_mountain_park_type">Water Park</string>
+    <string name="manali_resort_type">Resort</string>
+    <string name="national_war_museum_type">Museum</string>
+    <string name="mahatma_phule_museum_type">Museum</string>
+    <string name="raja_dinkar_kelkar_museum_type">Museum</string>
+    <string name="joshs_museum_type">Museum</string>
+    <string name="peshwa_udyan_type">Park</string>
+    <string name="tribal_museum_type">Museum</string>
+
+    <string name="panshet_water_park_phone">- - -</string>
+    <string name="diamond_water_park_phone">- - -</string>
+    <string name="appu_ghar_phone">- - -</string>
+    <string name="krushnai_water_park_phone">- - -</string>
+    <string name="splash_mountain_park_phone">- - -</string>
+    <string name="manali_resort_phone">- - -</string>
+    <string name="national_war_museum_phone">- - -</string>
+    <string name="mahatma_phule_museum_phone">- - -</string>
+    <string name="raja_dinkar_kelkar_museum_phone">- - -</string>
+    <string name="joshs_museum_phone">- - -</string>
+    <string name="peshwa_udyan_phone">- - -</string>
+    <string name="tribal_museum_phone">- - -</string>
+
+    <string name="panshet_water_park_time">9.00am - 5.00pm</string>
+    <string name="diamond_water_park_time">9.00am - 5.00pm</string>
+    <string name="appu_ghar_time">9.00am - 5.00pm</string>
+    <string name="krushnai_water_park_time">9.00am - 5.00pm</string>
+    <string name="splash_mountain_park_time">9.00am - 5.00pm</string>
+    <string name="manali_resort_time">9.00am - 5.00pm</string>
+    <string name="national_war_museum_time">9.00am - 5.00pm</string>
+    <string name="mahatma_phule_museum_time">9.00am - 5.00pm</string>
+    <string name="raja_dinkar_kelkar_museum_time">9.00am - 5.00pm</string>
+    <string name="joshs_museum_time">9.00am - 5.00pm</string>
+    <string name="peshwa_udyan_time">9.00am - 5.00pm</string>
+    <string name="tribal_museum_time">9.00am - 5.00pm</string>
+
+    <string name="panshet_water_park_url">- - -</string>
+    <string name="diamond_water_park_url">- - -</string>
+    <string name="appu_ghar_url">- - -</string>
+    <string name="krushnai_water_park_url">- - -</string>
+    <string name="splash_mountain_park_url">- - -</string>
+    <string name="manali_resort_url">- - -</string>
+    <string name="national_war_museum_url">- - -</string>
+    <string name="mahatma_phule_museum_url">- - -</string>
+    <string name="raja_dinkar_kelkar_museum_url">- - -</string>
+    <string name="joshs_museum_url">- - -</string>
+    <string name="peshwa_udyan_url">- - -</string>
+    <string name="tribal_museum_url">- - -</string>
+
+    <string name="panshet_water_park_address">Panshet water park, Near khadakwasla Dam, Pune, Maharashtra - 411024</string>
+    <string name="diamond_water_park_address">Diamond Water Park, Water Park Road, Lohegaon, Pune, Maharashtra 411047, India</string>
+    <string name="appu_ghar_address">Appu Ghar Pune, Mumbai-Pune Expressway, Sector No. 23, Nigdi Pradhikaran, Pune, Maharashtra 411044, India</string>
+    <string name="krushnai_water_park_address">Krushnai Water Park and Resort, Gat No. 186, Donje Gaon, Sinhagad Base, Pune, Maharashtra 411025, India</string>
+    <string name="splash_mountain_park_address">Splash Mountain Water Park, Mumbai-Pune Expressway, Near Rajiv Gandhi Infotech Park, Phase-1, Hinjawadi, Pune, Maharashtra 411057, India</string>
+    <string name="manali_resort_address">Manali Resort, Kavadi Pat, Post Manjari Farm, Loni Kalbhor, Pune – Solapur highway, Pune – 412 307</string>
+    <string name="national_war_museum_address">GVFQ+7V3, Prince of Wales Dr Rd, Ghorpuri Lines, Dobarwadi, Ghorpadi, Pune, Maharashtra 411001</string>
+    <string name="mahatma_phule_museum_address">1204/10, Ghole Rd, Shivajinagar, Pune, Maharashtra 411004</string>
+    <string name="raja_dinkar_kelkar_museum_address">No. 1377/78, Kamal Kunj, Bajirao Rd, Natu Baag, Shukrawar Peth, Pune, Maharashtra 411002</string>
+    <string name="joshs_museum_address">17/1, B/2, Late GA Kulkarni Path, near Karishma Society, Kothrud, Pune, Maharashtra 411038</string>
+    <string name="peshwa_udyan_address">Peshwa Udyan</string>
+    <string name="tribal_museum_address">28, Queen\'s Garden, Bund Garden Rd, near Old Circuit House, Camp, Pune, Maharashtra 411001</string>
+
+    <string name="panshet_water_park_about">\n Panshet Water Park is a popular water park located in the Panshet area of Pune, Maharashtra, India. The park is situated near the Panshet dam and is surrounded by lush green forests, making it an ideal location for a fun-filled day out with family and friends.\n\n
+    The water park offers a variety of thrilling rides and attractions for all age groups, including water slides, wave pools, rain dance floors, and kiddie pools. The park also has several restaurants and food stalls that serve a variety of delicious snacks and meals.\n\n
+    One of the most popular attractions at the Panshet Water Park is the wave pool, which simulates ocean waves and provides a fun and safe swimming experience for visitors of all ages. The park also has several water slides, including the multi-lane slide, the black hole slide, and the family slide, which provide a thrilling experience for visitors.\n\n
+    Another popular attraction at the water park is the rain dance floor, which is a large dance floor equipped with water sprinklers that create a rain-like effect. Visitors can dance to the latest Bollywood tunes and enjoy getting wet in the process.\n\n
+    The park has a separate kiddie pool area that is designed for young children and includes several shallow pools and water play structures.\n\n
+    Overall, Panshet Water Park is a fun and exciting destination for visitors of all ages and provides a refreshing escape from the heat of the city. It is a perfect place for a day out with family and friends and offers a unique opportunity to enjoy water sports and activities in a safe and controlled environment.
+    </string>
+
+    <string name="diamond_water_park_about">\n Diamond Water Park is a popular amusement park and water park located in Lohegaon, Pune, Maharashtra, India. The park covers an area of 25 acres and offers a wide range of thrilling rides and attractions for visitors of all ages.\n\n
+    The park has several exciting water rides and attractions, including wave pools, water slides, lazy river, and a rain dance floor. The wave pool is one of the most popular attractions, where visitors can enjoy the feeling of being in the ocean with simulated waves. The water slides include the tornado slide, the black hole slide, and the multi-lane slide, among others.\n\n
+    The lazy river is a relaxing ride that takes visitors on a slow-moving river that passes through the park\'s lush green landscapes. The park also has a rain dance floor, where visitors can dance to the latest Bollywood hits and enjoy getting wet in the process.\n\n
+    Apart from water rides, Diamond Water Park also has several land-based rides and attractions, including a roller coaster, a giant wheel, a pirate ship, and a mini train. There is also a separate area for children, with several kiddie rides and attractions, including a splash pool, water cannons, and a mini slide.\n\n
+    Overall, Diamond Water Park is a fun and exciting destination for visitors of all ages and offers a perfect way to beat the heat of Pune city. It is a great place to spend a day with family and friends and provides a unique opportunity to enjoy water and land-based rides and attractions in a safe and controlled environment.
+    </string>
+
+    <string name="appu_ghar_about">\n Appu Ghar is a popular amusement park located in Nigdi, Pune, Maharashtra, India. The park covers an area of 12 acres and offers a wide range of thrilling rides and attractions for visitors of all ages.\n\n
+    The park has several exciting rides, including roller coasters, water rides, and thrill rides. The roller coasters include the Cobra Roller Coaster and the Giant Wheel, which provide visitors with a thrilling experience. The water rides include the Wave Pool, the Lazy River, and the Cyclone, among others.\n\n
+    Apart from rides, Appu Ghar also has several other attractions, including the Mirror Maze, the Haunted House, and the 5D Theater, which provide visitors with a unique and immersive experience. There is also a separate area for children, with several kiddie rides and attractions, including a mini train and a mini Ferris wheel.\n\n
+    One of the most popular attractions at Appu Ghar is the Dinosaur Park, which is a unique feature of the park. The park has life-sized models of several dinosaurs, and visitors can also enjoy a dinosaur-themed train ride and a dinosaur-themed boat ride.\n\n
+    Overall, Appu Ghar is a fun and exciting destination for visitors of all ages and provides a perfect way to spend a day with family and friends. It is a great place to enjoy thrilling rides and attractions and provides a unique opportunity to explore the world of dinosaurs in a safe and controlled environment.
+    </string>
+
+    <string name="krushnai_water_park_about">\n Krushnai Water Park and Resort is a popular amusement park and water park located in Sinhagad Road, Pune, Maharashtra, India. The park covers an area of 15 acres and offers a wide range of thrilling rides and attractions for visitors of all ages.\n\n
+    The park has several exciting water rides and attractions, including wave pools, water slides, a rain dance floor, and a lazy river. The wave pool is one of the most popular attractions, where visitors can enjoy the feeling of being in the ocean with simulated waves. The water slides include the Cyclone, the Twister, and the Black Hole, among others.\n\n
+    The lazy river is a relaxing ride that takes visitors on a slow-moving river that passes through the park\'s lush green landscapes. The park also has a rain dance floor, where visitors can dance to the latest Bollywood hits and enjoy getting wet in the process.\n\n
+    Apart from water rides, Krushnai Water Park also has several land-based rides and attractions, including a giant wheel, a pirate ship, and a mini train. There is also a separate area for children, with several kiddie rides and attractions, including a splash pool, water cannons, and a mini slide.\n\n
+    Overall, Krushnai Water Park and Resort is a fun and exciting destination for visitors of all ages and offers a perfect way to beat the heat of Pune city. It is a great place to spend a day with family and friends and provides a unique opportunity to enjoy water and land-based rides and attractions in a safe and controlled environment.
+    </string>
+
+    <string name="splash_mountain_park_about">\n Splash Mountain Water Park is a popular water park located in Thergaon, Pune, Maharashtra, India. The park covers an area of 10 acres and offers a wide range of water rides and attractions for visitors of all ages.\n\n
+    The park has several exciting water slides and attractions, including the Wave Pool, the Lazy River, the Cyclone, and the Black Hole. The wave pool is one of the most popular attractions, where visitors can enjoy the feeling of being in the ocean with simulated waves. The Lazy River is a relaxing ride that takes visitors on a slow-moving river that passes through the park\'s lush green landscapes.\n\n
+    Apart from water rides, Splash Mountain Water Park also has several land-based rides and attractions, including a giant wheel, a pirate ship, and a mini train. There is also a separate area for children, with several kiddie rides and attractions, including a splash pool, water cannons, and a mini slide.\n\n
+    Splash Mountain Water Park has several restaurants and food stalls that offer a wide range of snacks and meals, including Indian, Chinese, and Continental cuisine. The park also has locker facilities and changing rooms for visitors.\n\n
+    Overall, Splash Mountain Water Park is a fun and exciting destination for visitors of all ages and offers a perfect way to beat the heat of Pune city. It is a great place to spend a day with family and friends and provides a unique opportunity to enjoy water and land-based rides and attractions in a safe and controlled environment.
+    </string>
+
+    <string name="manali_resort_about">\n Manali Resort is a popular family resort located in the beautiful hills of Manali, in the outskirts of Pune, Maharashtra, India. The resort is situated amidst lush greenery and offers a serene and tranquil environment for visitors to relax and unwind.\n\n
+    The resort features several well-appointed cottages and rooms that offer breathtaking views of the surrounding hills and valleys. The rooms and cottages are equipped with modern amenities, including air conditioning, cable TV, and free Wi-Fi.\n\n
+    Manali Resort has several recreational facilities for visitors to enjoy, including an outdoor swimming pool, a children\'s play area, and a well-equipped gymnasium. The resort also has a spa that offers a wide range of massages and treatments to help visitors relax and rejuvenate.\n\n
+    The resort has a multi-cuisine restaurant that serves a variety of dishes from Indian, Chinese, and Continental cuisine. The restaurant also has a bar that offers a wide range of beverages and cocktails.\n\n
+    Manali Resort is an ideal destination for families and couples who are looking for a peaceful and relaxing getaway in the hills. The resort offers several indoor and outdoor activities, including trekking, rock climbing, and sightseeing, which visitors can explore and enjoy during their stay.
+    </string>
+
+    <string name="national_war_museum_about">\n The National War Museum in Pune is a museum dedicated to the Indian Armed Forces and their sacrifices for the country. It is located in the Cantonment area of Pune and was inaugurated on 23 February 2019 by Prime Minister Narendra Modi.\n\n
+    The museum is spread over an area of 25 acres and showcases the history of the Indian Armed Forces from the First World War to the present day. It features various exhibits, including weapons, uniforms, documents, photographs, and war memorabilia. The museum also has a sound and light show, which tells the stories of the brave soldiers who fought for India\'s independence and sovereignty.\n\n
+    The National War Museum also has a replica of India Gate, which is a war memorial located in New Delhi. It is a 25-feet-high and 30-feet-wide replica, which has the names of all the soldiers who died in the line of duty since India\'s independence.\n\n
+    The museum has a state-of-the-art audio-visual system, which provides visitors with an immersive experience of the Indian Armed Forces history. It also has a library and an auditorium, which can accommodate up to 500 people.\n\n
+    Overall, the National War Museum in Pune is a fitting tribute to the brave men and women of the Indian Armed Forces who have sacrificed their lives for the country. It is a must-visit destination for anyone interested in India\'s military history and the sacrifices of its soldiers.
+    </string>
+
+    <string name="mahatma_phule_museum_about">\n The Mahatma Phule Museum is a museum located in the city of Pune, Maharashtra, India. It is named after Jyotirao Phule and his wife Savitribai Phule, who were social reformers during the British colonial era in India. The museum was established in 1875 and is one of the oldest museums in the country.\n\n
+    The museum houses a wide range of artifacts and exhibits related to Indian history, art, and culture. Some of the notable exhibits include sculptures, paintings, coins, and manuscripts dating back to the 17th century. The museum also has a collection of items related to Mahatma Gandhi and other Indian freedom fighters.\n\n
+    One of the highlights of the museum is a life-size diorama of a typical Indian village, showcasing the rural lifestyle and customs of the people. There is also a gallery dedicated to the Peshwas, the ruling dynasty of the Maratha Empire, which was headquartered in Pune.\n\n
+    Overall, the Mahatma Phule Museum is a must-visit for anyone interested in Indian history and culture. It offers a fascinating insight into the rich heritage of Maharashtra and the Indian subcontinent as a whole.
+    </string>
+
+    <string name="raja_dinkar_kelkar_museum_about">\n The Raja Dinkar Kelkar Museum is a museum located in Pune, Maharashtra, India. It was established in 1962 by Dr. Dinkar G. Kelkar in memory of his son Raja Dinkar Kelkar. The museum houses a vast collection of artifacts, over 20,000 items, that Dr. Kelkar collected over several decades from across the country.\n\n
+    The museum showcases a wide variety of objects, including paintings, sculptures, musical instruments, war weapons, textiles, and household objects, among others. One of the highlights of the museum is the collection of over 2,000 exquisite, intricately carved doors and windows from various parts of India, dating back to the 17th century.\n\n
+    Other noteworthy exhibits include a rich collection of traditional Indian musical instruments, a section dedicated to the life and times of Mahatma Gandhi, and a display of antique carriages and palanquins. The museum also houses a collection of everyday objects, such as lamps, vessels, and toys, which provide a glimpse into the daily lives of people in different parts of India over the centuries.\n\n
+    The Raja Dinkar Kelkar Museum is a must-visit destination for anyone interested in Indian art, culture, and history. It provides a unique opportunity to explore the rich and diverse cultural heritage of India through the eyes of a dedicated collector.
+    </string>
+
+    <string name="joshs_museum_about">\n Josh\'s Museum of Miniature Railways is a unique museum located in Pune, Maharashtra, India. It is home to an extensive collection of model trains, railways, and other related artifacts. The museum was established by Mr. B. A. Bodhankar in 1998 and is named after his son, Josh.\n\n
+    The museum features several working model train sets, ranging from small scales to large scales. The trains run on detailed tracks that mimic real railway lines, complete with miniature stations, tunnels, bridges, and other structures. Visitors can watch the trains run, blow their horns, and stop at stations.\n\n
+    In addition to model trains, the museum also has an impressive collection of miniature cars, planes, and ships. The museum also features a gift shop where visitors can buy miniature models, books, and other related souvenirs.\n\n
+    Overall, Josh\'s Museum of Miniature Railways is a must-visit attraction for model train enthusiasts and families with children who are fascinated by trains and railways.
+    </string>
+
+    <string name="peshwa_udyan_about">\n Peshwa Udyan, also known as Saras Baug, is a public garden and popular tourist attraction located in the heart of Pune city, Maharashtra, India. It is spread over 25 acres of land and is one of the most visited gardens in Pune.\n\n
+    The garden is known for its beautiful landscapes, lush greenery, and well-manicured lawns. It is surrounded by a large artificial lake, which is a major attraction of the garden. The lake is a popular spot for boating, and visitors can take a ride on pedal boats or rowing boats.\n\n
+    At the center of the garden is a small temple dedicated to Lord Ganesha, which is also a popular attraction. The temple is believed to be one of the oldest temples in Pune and is visited by a large number of devotees every day.\n\n
+    The garden also has a small zoo, which is home to a variety of animals and birds, including peacocks, rabbits, monkeys, and deer. There is also a children\'s park, which has various rides and attractions for kids.\n\n
+    Peshwa Udyan is a great place to spend some quality time with family and friends. It is open every day from morning till evening, and there is a nominal entry fee.
+    </string>
+
+    <string name="tribal_museum_about">\n The Tribal Museum, also known as the Gyan Vaishnavi, is located in Pune, Maharashtra, India. It was established in 1962 and is one of the oldest tribal museums in India. The museum is dedicated to the culture, art, and lifestyle of the tribal communities of Maharashtra and the surrounding states.\n\n
+    The museum showcases a rich collection of artifacts and exhibits, including tribal costumes, jewelry, weapons, musical instruments, and handicrafts. The exhibits are arranged thematically and chronologically, providing visitors with an insight into the history, traditions, and beliefs of the tribal communities.\n\n
+    The museum also features a library with a vast collection of books and manuscripts on the tribal culture and heritage. The library is open to the public, and visitors can access the books and other resources for research and study.\n\n
+    In addition to the exhibits and library, the museum also organizes cultural programs and events, including tribal dance performances, music concerts, and workshops on tribal art and craft. These events provide visitors with an opportunity to experience and appreciate the rich and diverse culture of the tribal communities of Maharashtra.
+    </string>
+
+
+    <string name="panshet_water_park_places">1) Rajgad Fort: Approximately 60 kilometers from Panshet Water Park.\n
+        2) Tamhini waterfall: Approximately 63 kilometers from Panshet Water Park.\n
+        3) Sinhagad Fort: Approximately 23 kilometers from Panshet Water Park.</string>
+    <string name="diamond_water_park_places">1) Sinhagad Fort: Approximately 23 kilometers from Panshet Water Park.\n
+        2) Rajgad Fort: Approximately 60 kilometers from Panshet Water Park.\n
+        3) Tamhini waterfall: Approximately 63 kilometers from Panshet Water Park.\n
+</string>
+    <string name="appu_ghar_places">1) Raja Dinkar Kelkar Museum: Approximately 7 kilometers from Appu Ghar.\n
+        2) Dagdusheth Halwai Ganapati Temple: Approximately 8 kilometers from Appu Ghar.\n
+        3) Lal Mahal: Approximately 8 kilometers from Appu Ghar.</string>
+    <string name="krushnai_water_park_places">1) Baneshwar Temple is approximately 45 kilometers from Krushnai Water Park and Resort.\n
+        2) Sinhagad Fort: Approximately 20 kilometers from Krushnai Water Park and Resort.\n
+        3) Rajgad Fort: Approximately 58 kilometers from Krushnai Water Park and Resort.\n
+</string>
+    <string name="splash_mountain_park_places">1) Appu Ghar: Approximately 1.5 kilometers from Splash Mountain Water Park.\n
+        2) Sinhagad Fort: Approximately 24 kilometers from Splash Mountain Water Park.\n
+        3) Katraj Snake Park: Approximately 5 kilometers from Splash Mountain Water Park.</string>
+    <string name="manali_resort_places">1) Sinhagad Fort: Approximately 25 kilometers from Manali Resort.\n
+        2) Rajiv Gandhi Zoological Park: Approximately 15 kilometers from Manali Resort.\n
+        3) Katraj Snake Park: Approximately 16 kilometers from Manali Resort.</string>
+    <string name="national_war_museum_places">1) Sarasbaug Ganpati Temple: Approximately 3 kilometers from the National War Museum.\n
+        2) Pataleshwar Cave Temple: Approximately 2.5 kilometers from the National War Museum.\n
+        3) Balaji Mandir: Approximately 4 kilometers from the National War Museum.\n
+</string>
+    <string name="mahatma_phule_museum_places">1) Shaniwar Wada: Approximately 2 kilometers from the Mahatma Phule Museum.\n
+        2) Lal Mahal: Approximately 2.5 kilometers from the Mahatma Phule Museum.\n
+        3) Sarasbaug Ganpati Temple: Approximately 3 kilometers from the Mahatma Phule Museum.\n
+</string>
+    <string name="raja_dinkar_kelkar_museum_places">1) Katraj Snake Park: Approximately 12 kilometers from the Raja Dinkar Kelkar Museum.\n
+        2) Rajiv Gandhi Zoological Park: Approximately 12 kilometers from the Raja Dinkar Kelkar Museum.\n
+        3) Aga Khan Palace: Approximately 7 kilometers from the Raja Dinkar Kelkar Museum.\n
+</string>
+    <string name="joshs_museum_places">1) Raja Dinkar Kelkar Museum: Approximately 1.5 kilometers from Josh\'s Museum of Miniature Railways.\n
+        2) Shaniwar Wada: Approximately 2.5 kilometers from Josh\'s Museum of Miniature Railways.\n
+        3) Dagdusheth Halwai Ganapati Temple: Approximately 3 kilometers from Josh\'s Museum of Miniature Railways.</string>
+    <string name="peshwa_udyan_places">1) Parvati Hill: Approximately 1.5 kilometers from Peshwa Udyan.\n
+        2) Pataleshwar Temple: Approximately 2.5 kilometers from Peshwa Udyan.\n
+        3) Rajiv Gandhi Zoological Park: Approximately 4.5 kilometers from Peshwa Udyan.</string>
+    <string name="tribal_museum_places">1) Raja Dinkar Kelkar Museum: Approximately 2 kilometers from the Tribal Museum.\n
+        2) Lal Mahal: Approximately 2.5 kilometers from the Tribal Museum.\n
+        3) Chaturshrungi Temple: Approximately 5 kilometers from the Tribal Museum.</string>
+
+
+    <string name="panshet_water_park_hotels"> - - - </string>
+    <string name="diamond_water_park_hotels"> Akash Garden Restaurant and Lodging </string>
+    <string name="appu_ghar_hotels"> - - - </string>
+    <string name="krushnai_water_park_hotels"> - - - </string>
+    <string name="splash_mountain_park_hotels"> - - - </string>
+    <string name="manali_resort_hotels"> Hotel Jay Shree Executive </string>
+    <string name="national_war_museum_hotels"> Sheraton Grand Pune Bund Garden Hotel </string>
+    <string name="mahatma_phule_museum_hotels"> Hotel Shreyas </string>
+    <string name="raja_dinkar_kelkar_museum_hotels"> Hotel Sagar Plaza </string>
+    <string name="joshs_museum_hotels"> Ginger Pune Wakad </string>
+    <string name="peshwa_udyan_hotels"> - - - </string>
+    <string name="tribal_museum_hotels"> - - - </string>
+
+
+    <string name="panshet_water_park_helpline">- - -</string>
+    <string name="diamond_water_park_helpline">- - -</string>
+    <string name="appu_ghar_helpline">- - -</string>
+    <string name="krushnai_water_park_helpline">- - -</string>
+    <string name="splash_mountain_park_helpline">- - -</string>
+    <string name="manali_resort_helpline">- - -</string>
+    <string name="national_war_museum_helpline">- - -</string>
+    <string name="mahatma_phule_museum_helpline">- - -</string>
+    <string name="raja_dinkar_kelkar_museum_helpline">- - -</string>
+    <string name="joshs_museum_helpline">- - -</string>
+    <string name="peshwa_udyan_helpline">- - -</string>
+    <string name="tribal_museum_helpline">- - -</string>
+
+
+
+
+
+    <string name="hotel_aurora_towers">Hotel Aurora Towers</string>
+    <string name="the_president_hotel">The President Hotel - Banquets - Restaurant</string>
+    <string name="hotel_amol">Hotel Amol</string>
+    <string name="hotel_basera">Hotel Basera</string>
+    <string name="the_pride_hotel">The Pride Hotel Pune</string>
+    <string name="hotel_ketan">Hotel Ketan</string>
+    <string name="banquets_at_sayaji_hotel">Banquets at Sayaji Hotel, Pune</string>
+    <string name="hotel_hmr_royal_inn">Hotel HMR Royal Inn</string>
+    <string name="hotel_sai_kiran">SPOT ON 76834 Hotel Sai Kiran</string>
+    <string name="hotel_malhar_inn">Hotel Malhar Inn</string>
+    <string name="town_plaza_hotel">Town Plaza Hotel and Banquets</string>
+    <string name="hotel_shiv_tirth">Hotel Shiv Tirth and Lodging</string>
+    <string name="shivaraj_lodge_restaurent">Shivaraj Lodge and Restaurant</string>
+    <string name="hotel_radha_krishna">Hotel Radha Krishna Residency</string>
+    <string name="akash_garden_restaurant">Akash Garden Restaurant And Lodging</string>
+    <string name="hotel_jay_shree">Hotel Jay Shree Executive</string>
+    <string name="fabhotel_gandharva">FabHotel Gandharva Residency</string>
+    <string name="agro_resort">SPOT ON Malshej Agro Resort</string>
+    <string name="bouganvilla_retreat">Bouganvilla Retreat Tamhini</string>
+    <string name="green_fog_guesthouse">Green Fog Guesthouse</string>
+    <string name="the_orchid_hotel">The Orchid hotel</string>
+    <string name="the_corinthians_resort">The Corinthians Resort and Club</string>
+    <string name="hotel_mint_montVert">Hotel Mint MontVert</string>
+    <string name="sheraton_grand_hotel">Sheraton Grand Pune Bund Garden Hotel</string>
+    <string name="hotel_shreyas">Hotel Shreyas</string>
+    <string name="hotel_sagar_plaza">Hotel Sagar Plaza</string>
+    <string name="ginger_pune_wakad">Ginger Pune wakad</string>
+    <string name="nitya_eco_family_resort">Nitya Eco Family Resort and Farm House</string>
+    <string name="rajmachi_base_camp">Rajmachi Base Camp</string>
+    <string name="hotel_tulajabhavani">Hotel tulajabhavani rajgad paytha pal khurd ️</string>
+    <string name="hotel_new_rajmata">HOTEL NEW RAJMATA</string>
+    <string name="hotel_radha_krishna_residency">Hotel Radha Krishna Residency</string>
+    <string name="shivneri_fort_valley_resort">Shivneri Fort Valley Resort</string>
+
+
+    <string name="hotel_aurora_towers_phone">- - -</string>
+    <string name="the_president_hotel_phone">- - -</string>
+    <string name="hotel_amol_phone">- - -</string>
+    <string name="hotel_basera_phone">- - -</string>
+    <string name="the_pride_hotel_phone">- - -</string>
+    <string name="hotel_ketan_phone">- - -</string>
+    <string name="banquets_at_sayaji_hotel_phone">- - -</string>
+    <string name="hotel_hmr_royal_inn_phone">- - -</string>
+    <string name="hotel_sai_kiran_phone">- - -</string>
+    <string name="hotel_malhar_inn_phone">- - -</string>
+    <string name="town_plaza_hotel_phone">- - -</string>
+    <string name="hotel_shiv_tirth_phone">- - -</string>
+    <string name="shivaraj_lodge_restaurent_phone">- - -</string>
+    <string name="hotel_radha_krishna_phone">- - -</string>
+    <string name="akash_garden_restaurant_phone">- - -</string>
+    <string name="hotel_jay_shree_phone">- - -</string>
+    <string name="fabhotel_gandharva_phone">- - -</string>
+    <string name="agro_resort_phone">- - -</string>
+    <string name="bouganvilla_retreat_phone">- - -</string>
+    <string name="green_fog_guesthouse_phone">- - -</string>
+    <string name="the_orchid_hotel_phone">- - -</string>
+    <string name="the_corinthians_resort_phone">- - -</string>
+    <string name="hotel_mint_montVert_phone">- - -</string>
+    <string name="sheraton_grand_hotel_phone">- - -</string>
+    <string name="hotel_shreyas_phone">- - -</string>
+    <string name="hotel_sagar_plaza_phone">- - -</string>
+    <string name="ginger_pune_wakad_phone">- - -</string>
+    <string name="nitya_eco_family_resort_phone">- - -</string>
+    <string name="rajmachi_base_camp_phone">- - -</string>
+    <string name="hotel_tulajabhavani_phone">- - -</string>
+    <string name="hotel_new_rajmata_phone">- - -</string>
+    <string name="hotel_radha_krishna_residency_phone">- - -</string>
+    <string name="shivneri_fort_valley_resort_phone">- - -</string>
+
+
+    <string name="hotel_aurora_towers_type"> </string>
+    <string name="the_president_hotel_type"> </string>
+    <string name="hotel_amol_type"> </string>
+    <string name="hotel_basera_type"> </string>
+    <string name="the_pride_hotel_type"> </string>
+    <string name="hotel_ketan_type"> </string>
+    <string name="banquets_at_sayaji_hotel_type"> </string>
+    <string name="hotel_hmr_royal_inn_type"> </string>
+    <string name="hotel_sai_kiran_type"> </string>
+    <string name="hotel_malhar_inn_type"> </string>
+    <string name="town_plaza_hotel_type"> </string>
+    <string name="hotel_shiv_tirth_type"> </string>
+    <string name="shivaraj_lodge_restaurent_type"> </string>
+    <string name="hotel_radha_krishna_residency_type"> </string>
+    <string name="akash_garden_restaurant_type"> </string>
+    <string name="hotel_jay_shree_type"> </string>
+    <string name="fabhotel_gandharva_type"> </string>
+    <string name="agro_resort_type"> </string>
+    <string name="bouganvilla_retreat_type"> </string>
+    <string name="green_fog_guesthouse_type"> </string>
+    <string name="the_orchid_hotel_type"> </string>
+    <string name="the_corinthians_resort_type"> </string>
+    <string name="hotel_mint_montVert_type"> </string>
+    <string name="sheraton_grand_hotel_type"> </string>
+    <string name="hotel_shreyas_type"> </string>
+    <string name="hotel_sagar_plaza_type"> </string>
+    <string name="ginger_pune_wakad_type"> </string>
+    <string name="nitya_eco_family_resort_type"> </string>
+    <string name="rajmachi_base_camp_type"> </string>
+    <string name="hotel_tulajabhavani_type"> </string>
+    <string name="hotel_new_rajmata_type"> </string>
+    <string name="hotel_radha_krishna_type"> </string>
+    <string name="shivneri_fort_valley_resort_type"> </string>
+
+
+
+    <string name="hotel_aurora_towers_address">9, Moledina Rd, Camp, Pune, Maharashtra 411001</string>
+    <string name="the_president_hotel_address">no. 8, Off, 34/11, Prabhat Road, Lane, Karve Rd, Pune, Maharashtra 411004</string>
+    <string name="hotel_amol_address">GRMX+GJQ, Shivajinagar Bus Stand Rd, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005</string>
+    <string name="hotel_basera_address"> 689 Shreemant Thorle Bajirav, Milkha Singh Sports Complex Rd, Narayan Peth, Pune, Maharashtra 411002</string>
+    <string name="the_pride_hotel_address">5, University Rd, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005</string>
+    <string name="hotel_ketan_address">No.917, 19A, Fergusson College Rd, Ganeshwadi, Deccan Gymkhana, Pune, Maharashtra 411004</string>
+    <string name="banquets_at_sayaji_hotel_address">Ground Floor, Sayaji Hotel, Pearl Hall, Service Rd, Wakad, Pimpri-Chinchwad, Maharashtra 411057</string>
+    <string name="hotel_hmr_royal_inn_address">Katraj, Pune - Satara Road, Chowk, opp. Gandharva Lawns, near Katraj, Katraj, Pune, Maharashtra 411046</string>
+    <string name="hotel_sai_kiran_address">Mahalaxmi Temple, Shree Datta Ashram, Pune, Maharashtra 412105</string>
+    <string name="hotel_malhar_inn_address">Juni Jejuri Rd, opposite Kolekar Parking, Jejuri, Maharashtra 412303</string>
+    <string name="town_plaza_hotel_address">671, Taboot St, off Mahatma Gandhi Road, Camp, Pune, Maharashtra 411001</string>
+    <string name="hotel_shiv_tirth_address">3GCP+RF2, Bhimashankar, Maharashtra 410509</string>
+    <string name="shivaraj_lodge_restaurent_address">Near, Baneshwar Temple</string>
+    <string name="hotel_radha_krishna_address">Prati Balaji Temple Shree Venkateshwara Balaji Temple, Radha Krishna, Ketkawale, Maharashtra 412205</string>
+    <string name="akash_garden_restaurant_address">HXR4+2C9, Lohgaon Rd, Near Dimond Water Park, Wagholi, Pune, Maharashtra 411047</string>
+    <string name="hotel_jay_shree_address">Haveli, Kawadipat, Nr. Toll Plaza, Loni-Kalbhor, Tal, Solapur - Pune Hwy, Pune, Maharashtra 412201</string>
+    <string name="fabhotel_gandharva_address">SNO 37/2, Punn (N/ Corp, Shankar Sheth Rd, Gultekadi, Pune, Maharashtra 411037</string>
+    <string name="agro_resort_address">Pimpalgaon Joga, near Aarambh Agro Tourism Centre, Malshej Ghat, Maharashtra 421401, India</string>
+    <string name="bouganvilla_retreat_address">Tamhini Ghat Road, Village Varak, Near Mulshi Dam, Tamhini Ghat, Maharashtra 412108, India</string>
+    <string name="green_fog_guesthouse_address">ambavane village, near Aamby Valley City, Lonavala, Maharashtra 412213</string>
+    <string name="the_orchid_hotel_address">Pune-Satara Road, Adjacent to Chhatrapati Shivaji Sports Complex, Balewadi, Pune, Maharashtra 411045</string>
+    <string name="the_corinthians_resort_address">Corinthians Club Internal Rd, Nyati County, Undri, Pune, Maharashtra 411060</string>
+    <string name="hotel_mint_montVert_address">Lane, opposite to Vadeshwar restaurant, Riviresa Society, Baner, Pune, Maharashtra 411045</string>
+    <string name="sheraton_grand_hotel_address">Raja Bahadur Mill Rd, Sangamvadi, Pune, Maharashtra 411001</string>
+    <string name="hotel_shreyas_address">1242 B, Apte Rd, Deccan Gymkhana, Pune, Maharashtra 411004</string>
+    <string name="hotel_sagar_plaza_address">Survey No 01, Bund Garden Rd, near MG Road, next to SGS Mall, Sangamvadi, Pune, Maharashtra 411001</string>
+    <string name="ginger_pune_wakad_address">Near, Indira College Rd, Kala Khadak, Wakad, Pune, Maharashtra 411057</string>
+    <string name="nitya_eco_family_resort_address">Gorhe Khurd, Sinhagad khadakwasla, opposite to dada konkde studio, Pune, Maharashtra 411025</string>
+    <string name="rajmachi_base_camp_address">Rajmachifort(Udhewadi)., Khandala, lonavala - Khandala, Maharashtra 410401</string>
+    <string name="hotel_tulajabhavani_address">Hotel Tulajabhavani Rajgad Paytha, Pal Khurd, Velhe, Maharashtra 412212, India</string>
+    <string name="hotel_new_rajmata_address">Gunjawane Fata, Gat No.563 Pytha Chor Darwaza Marg, Rajgad Fort Rd, Fort, Chirmodi</string>
+    <string name="hotel_radha_krishna_residency_address">Prati Balaji Temple Shree Venkateshwara Balaji Temple, Radha Krishna, Ketkawale, Maharashtra 412205</string>
+    <string name="shivneri_fort_valley_resort_address">Beside Varsubai Temple Aptale Road Somatwadi, Taluka, Junnar, Maharashtra 410502</string>
+
+
+
+
+
+    <string name="hotel_aurora_towers_about">approximately 2 kilometers from Dagdusheth Halwai Ganpati Temple</string>
+    <string name="the_president_hotel_about">approximately 3 kilometers from parvati hill temple</string>
+    <string name="hotel_amol_about">approximately 5 kilometers from pataleshwar hotel temple</string>
+    <string name="hotel_basera_about">approximately 500 meters from shri balaji mandir </string>
+    <string name="the_pride_hotel_about">approximately 3 kilometers from Shri Chatushrungi Devi Temple</string>
+    <string name="hotel_ketan_about">approximately 3 kilometers from Sarasbaug Ganpati Temple</string>
+    <string name="banquets_at_sayaji_hotel_about">approximately 20 kilometers from Dehu Temple</string>
+    <string name="hotel_hmr_royal_inn_about">approximately 3 kilometers from ISKCON NVCC Temple and Katraj Jain temple</string>
+    <string name="hotel_sai_kiran_about">approximately 1 kilometer from alandi temple</string>
+    <string name="hotel_malhar_inn_about">approximately 1 kilometer from Khandoba mandir,Jejuri</string>
+    <string name="town_plaza_hotel_about">approximately 4 kilometers from St. Mary\'s Church</string>
+    <string name="hotel_shiv_tirth_about">approximately 100 meters from Bhimashankar Temple</string>
+    <string name="shivaraj_lodge_restaurent_about">approximately 1.2 kilometers from Baneshwar Temple</string>
+    <string name="hotel_radha_krishna_about">approximately 2.2 kilometers from prati balaji mandir</string>
+    <string name="akash_garden_restaurant_about">approximately 3 kilometers from diamond water park</string>
+    <string name="hotel_jay_shree_about">Haveli, Kawadipat, Near. Toll Plaza, Loni-Kalbhor, Tal, Solapur - Pune Hwy, Pune, Maharashtra 412201</string>
+    <string name="fabhotel_gandharva_about"> approximately 6 kilometers from Taljai Hill</string>
+    <string name="agro_resort_about"> approximately 20 kilometers from hadsar fort trek</string>
+    <string name="bouganvilla_retreat_about"> approximately 8 kilometers away from the Tamhini Waterfall</string>
+    <string name="green_fog_guesthouse_about"> approximately 6 kilometers away from the korigad trek</string>
+    <string name="the_orchid_hotel_about"> approximately 5 kilometers from Katraj Snake Park</string>
+    <string name="the_corinthians_resort_about"> approximately 6 kilometers from Rajiv Gandhi Zoological Park</string>
+    <string name="hotel_mint_montVert_about"> approximately 2.5 kilometers from Baner Pashan Biodiversity Park</string>
+    <string name="sheraton_grand_hotel_about"> approximately 5 kilometers from National War Museum</string>
+    <string name="hotel_shreyas_about"> approximately 2 kilometers from Mahatma Phule Museum</string>
+    <string name="hotel_sagar_plaza_about"> approximately 3.5 kilometers from Raja Dinkar Kelkar Museum</string>
+    <string name="ginger_pune_wakad_about"> approximately 6 kilometers from Josh\'s Museum of Miniature Railways</string>
+    <string name="nitya_eco_family_resort_about"> approximately 12 kms from sinhagad fort</string>
+    <string name="rajmachi_base_camp_about">approximately 2 kilometers from Rajmachi Fort</string>
+    <string name="hotel_tulajabhavani_about"> approximately 5.6 kilometers from rajgad fort</string>
+    <string name="hotel_new_rajmata_about"> approximately 14 kilometers from torna fort</string>
+    <string name="hotel_radha_krishna_residency_about"> approximately 20 kilometers from purandar fort</string>
+    <string name="shivneri_fort_valley_resort_about">approximately 4 kilometers from sivneri fort</string>
+
+
+
+
+
+    <string name="no_phone">Phone number not found.</string>
+    <string name="no_website">Website not found.</string>
+    <string name="no_location">Unable to locate on the maps.</string>
+    <string name="about">About</string>
+    <string name="near_by_recommdations">Near By Recommdations :-</string>
+    <string name="places">Places :</string>
+    <string name="hotels_name">Hotels :</string>
+    <string name="helpline">Helpline :</string>
+    <string name="dot_separator">\u2022</string>
+
+</resources>

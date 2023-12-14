@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="AdventureImageId">
+        <item>@drawable/sinhagad</item>
+        <item>@drawable/rajmachi</item>
+        <item>@drawable/rajgad</item>
+        <item>@drawable/torna</item>
+        <item>@drawable/purandar</item>
+        <item>@drawable/shivneri</item>
+        <item>@drawable/aga_khan_palace</item>
+        <item>@drawable/lal_mahal</item>
+        <item>@drawable/malhargad</item>
+        <item>@drawable/shaniwar_wada</item>
+        <item>@drawable/taljai_hill</item>
+        <item>@drawable/hadsar_trek</item>
+        <item>@drawable/tamhini</item>
+        <item>@drawable/korigad</item>
+    </string-array>
+
+    <string-array name="AdventureName">
+        <item>@string/sinhagad</item>
+        <item>@string/rajmachi</item>
+        <item>@string/rajgad</item>
+        <item>@string/torna</item>
+        <item>@string/purandar</item>
+        <item>@string/shivneri</item>
+        <item>@string/aga_khan</item>
+        <item>@string/lal_mahal</item>
+        <item>@string/malhargad</item>
+        <item>@string/shaniwarwada</item>
+        <item>@string/taljai</item>
+        <item>@string/hadsar</item>
+        <item>@string/tamhini</item>
+        <item>@string/korigad</item>
+    </string-array>
+
+    <string-array name="AdventureRating">
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.8</item>
+        <item>4.7</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.6</item>
+        <item>4.3</item>
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+
+    <string-array name="AdventureType">
+        <item>@string/sinhagad_type</item>
+        <item>@string/rajmachi_type</item>
+        <item>@string/rajgad_type</item>
+        <item>@string/torna_type</item>
+        <item>@string/purandar_type</item>
+        <item>@string/shivneri_type</item>
+        <item>@string/aga_khan_type</item>
+        <item>@string/lal_mahal_type</item>
+        <item>@string/malhargad_type</item>
+        <item>@string/shaniwarwada_type</item>
+        <item>@string/taljai_type</item>
+        <item>@string/hadsar_type</item>
+        <item>@string/tamhini_type</item>
+        <item>@string/korigad_type</item>
+    </string-array>
+
+    <string-array name="AdventurePhone">
+        <item>@string/sinhagad_phone</item>
+        <item>@string/rajmachi_phone</item>
+        <item>@string/rajgad_phone</item>
+        <item>@string/torna_phone</item>
+        <item>@string/purandar_phone</item>
+        <item>@string/shivneri_phone</item>
+        <item>@string/aga_khan_phone</item>
+        <item>@string/lal_mahal_phone</item>
+        <item>@string/malhargad_phone</item>
+        <item>@string/shaniwarwada_phone</item>
+        <item>@string/taljai_phone</item>
+        <item>@string/hadsar_phone</item>
+        <item>@string/tamhini_phone</item>
+        <item>@string/korigad_phone</item>
+    </string-array>
+
+    <string-array name="AdventureTime">
+        <item>@string/sinhagad_time</item>
+        <item>@string/rajmachi_time</item>
+        <item>@string/rajgad_time</item>
+        <item>@string/torna_time</item>
+        <item>@string/purandar_time</item>
+        <item>@string/shivneri_time</item>
+        <item>@string/aga_khan_time</item>
+        <item>@string/lal_mahal_time</item>
+        <item>@string/malhargad_time</item>
+        <item>@string/shaniwarwada_time</item>
+        <item>@string/taljai_time</item>
+        <item>@string/hadsar_time</item>
+        <item>@string/tamhini_time</item>
+        <item>@string/korigad_time</item>
+    </string-array>
+
+    <string-array name="AdventureAddress">
+        <item>@string/sinhagad_address</item>
+        <item>@string/rajmachi_address</item>
+        <item>@string/rajgad_address</item>
+        <item>@string/torna_address</item>
+        <item>@string/purandar_address</item>
+        <item>@string/shivneri_address</item>
+        <item>@string/aga_khan_address</item>
+        <item>@string/lal_mahal_address</item>
+        <item>@string/malhargad_address</item>
+        <item>@string/shaniwarwada_address</item>
+        <item>@string/taljai_address</item>
+        <item>@string/hadsar_address</item>
+        <item>@string/tamhini_address</item>
+        <item>@string/korigad_address </item>
+    </string-array>
+
+    <string-array name="AdventureInfo">
+        <item>@string/sinhagad_about</item>
+        <item>@string/rajmachi_about</item>
+        <item>@string/rajgad_about</item>
+        <item>@string/torna_about</item>
+        <item>@string/purandar_about</item>
+        <item>@string/shivneri_about</item>
+        <item>@string/aga_khan_about</item>
+        <item>@string/lal_mahal_about</item>
+        <item>@string/malhargad_about</item>
+        <item>@string/shaniwarwada_about</item>
+        <item>@string/taljai_about</item>
+        <item>@string/hadsar_about</item>
+        <item>@string/tamhini_about</item>
+        <item>@string/korigad_about</item>
+    </string-array>
+
+    <string-array name="AdventurePlaces">
+        <item>@string/sinhagad_places</item>
+        <item>@string/rajmachi_places</item>
+        <item>@string/rajgad_places</item>
+        <item>@string/torna_places</item>
+        <item>@string/purandar_places</item>
+        <item>@string/shivneri_places</item>
+        <item>@string/aga_khan_places</item>
+        <item>@string/lal_mahal_places</item>
+        <item>@string/malhargad_places</item>
+        <item>@string/shaniwarwada_places</item>
+        <item>@string/taljai_places</item>
+        <item>@string/hadsar_places</item>
+        <item>@string/tamhini_places</item>
+        <item>@string/korigad_places</item>
+    </string-array>
+
+    <string-array name="AdventureHotels">
+        <item>@string/sinhagad_hotels</item>
+        <item>@string/rajmachi_hotels</item>
+        <item>@string/rajgad_hotels</item>
+        <item>@string/torna_hotels</item>
+        <item>@string/purandar_hotels</item>
+        <item>@string/shivneri_hotels</item>
+        <item>@string/aga_khan_hotels</item>
+        <item>@string/lal_mahal_hotels</item>
+        <item>@string/malhargad_hotels</item>
+        <item>@string/shaniwarwada_hotels</item>
+        <item>@string/taljai_hotels</item>
+        <item>@string/hadsar_hotels</item>
+        <item>@string/tamhini_hotels</item>
+        <item>@string/korigad_hotels</item>
+    </string-array>
+
+    <string-array name="AdventureHelpline">
+        <item>@string/sinhagad_helpline</item>
+        <item>@string/rajmachi_helpline</item>
+        <item>@string/rajgad_helpline</item>
+        <item>@string/torna_helpline</item>
+        <item>@string/purandar_helpline</item>
+        <item>@string/shivneri_helpline</item>
+        <item>@string/aga_khan_helpline</item>
+        <item>@string/lal_mahal_helpline</item>
+        <item>@string/malhargad_helpline</item>
+        <item>@string/shaniwarwada_helpline</item>
+        <item>@string/taljai_helpline</item>
+        <item>@string/hadsar_helpline</item>
+        <item>@string/tamhini_helpline</item>
+        <item>@string/korigad_helpline</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="culturalImgId">
+        <item>@drawable/dagdusheth_halwai_ganpati</item>
+        <item>@drawable/parvati_hill_temple</item>
+        <item>@drawable/pataleshwar_cave</item>
+        <item>@drawable/balaji_mandir</item>
+        <item>@drawable/chaturshringi</item>
+        <item>@drawable/sarasbaug_ganpati</item>
+        <item>@drawable/dehu</item>
+        <item>@drawable/iskon_nvcc</item>
+        <item>@drawable/katraj_jain</item>
+        <item>@drawable/bhuleshwar</item>
+        <item>@drawable/prati_shirdi</item>
+        <item>@drawable/alandi</item>
+        <item>@drawable/jejuri</item>
+        <item>@drawable/st_marys_church</item>
+        <item>@drawable/bhimashankar</item>
+        <item>@drawable/baneshwar</item>
+        <item>@drawable/prati_balaji_mandir</item>
+        <item>@drawable/sangameshwar</item>
+        <item>@drawable/katraj_snake_park</item>
+        <item>@drawable/rajiv_gandhi_zoological_park</item>
+        <item>@drawable/baner_pashan</item>
+
+    </string-array>
+
+    <string-array name="culturalName">
+        <item>@string/dagdusheth_halwai_ganpati</item>
+        <item>@string/parvati_hill_temple</item>
+        <item>@string/patalshewar_cave_temple</item>
+        <item>@string/shri_balaji_mandir</item>
+        <item>@string/chaturshringi_temple</item>
+        <item>@string/sarasbaug_ganpati_temple</item>
+        <item>@string/dehu_temple</item>
+        <item>@string/iskcon_nvcc_temple</item>
+        <item>@string/katraj_jain_temple</item>
+        <item>@string/bhuleshwar_temple</item>
+        <item>@string/prati_shirdi</item>
+        <item>@string/alandi</item>
+        <item>@string/khandoba_mandir</item>
+        <item>@string/st_marys_church</item>
+        <item>@string/bhimashankar_temple</item>
+        <item>@string/baneshwar_temple</item>
+        <item>@string/prati_balaji_mandir</item>
+        <item>@string/amruteshwar_mandir</item>
+        <item>@string/katraj_snake_park</item>
+        <item>@string/rajiv_gandhi_zoological_park</item>
+        <item>@string/baner_pashan_biodiversity_park</item>
+    </string-array>
+
+    <string-array name="culturalRating">
+        <item>4.8</item>
+        <item>4.4</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.7</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>3.9</item>
+    </string-array>
+
+    <string-array name="culturalAdventure">
+        <item>@string/dagdusheth_halwai_ganpati_type</item>
+        <item>@string/parvati_hill_temple_type</item>
+        <item>@string/patalshewar_cave_temple_type</item>
+        <item>@string/shri_balaji_mandir_type</item>
+        <item>@string/chaturshringi_temple_type</item>
+        <item>@string/sarasbaug_ganpati_temple_type</item>
+        <item>@string/dehu_temple_type</item>
+        <item>@string/iskcon_nvcc_temple_type</item>
+        <item>@string/katraj_jain_temple_type</item>
+        <item>@string/bhuleshwar_temple_type</item>
+        <item>@string/prati_shirdi_type</item>
+        <item>@string/alandi_type</item>
+        <item>@string/khandoba_mandir_type</item>
+        <item>@string/st_marys_church_type</item>
+        <item>@string/bhimashankar_temple_type</item>
+        <item>@string/baneshwar_temple_type</item>
+        <item>@string/prati_balaji_mandir_type</item>
+        <item>@string/amruteshwar_mandir_type</item>
+        <item>@string/katraj_snake_park_type</item>
+        <item>@string/rajiv_gandhi_zoological_park_type</item>
+        <item>@string/baner_pashan_biodiversity_park_type</item>
+    </string-array>
+
+    <string-array name="culturalPhone">
+        <item>@string/dagdusheth_halwai_ganpati_phone</item>
+        <item>@string/parvati_hill_temple_phone</item>
+        <item>@string/patalshewar_cave_temple_phone</item>
+        <item>@string/shri_balaji_mandir_phone</item>
+        <item>@string/chaturshringi_temple_phone</item>
+        <item>@string/sarasbaug_ganpati_temple_phone</item>
+        <item>@string/dehu_temple_phone</item>
+        <item>@string/iskcon_nvcc_temple_phone</item>
+        <item>@string/katraj_jain_temple_phone</item>
+        <item>@string/bhuleshwar_temple_phone</item>
+        <item>@string/prati_shirdi_phone</item>
+        <item>@string/alandi_phone</item>
+        <item>@string/khandoba_mandir_phone</item>
+        <item>@string/st_marys_church_phone</item>
+        <item>@string/bhimashankar_temple_phone</item>
+        <item>@string/baneshwar_temple_phone</item>
+        <item>@string/prati_balaji_mandir_phone</item>
+        <item>@string/amruteshwar_mandir_phone</item>
+        <item>@string/katraj_snake_park_phone</item>
+        <item>@string/rajiv_gandhi_zoological_park_phone</item>
+        <item>@string/baner_pashan_biodiversity_park_phone</item>
+    </string-array>
+
+    <string-array name="culturalTime">
+        <item>@string/dagdusheth_halwai_ganpati_time</item>
+        <item>@string/parvati_hill_temple_time</item>
+        <item>@string/patalshewar_cave_temple_time</item>
+        <item>@string/shri_balaji_mandir_time</item>
+        <item>@string/chaturshringi_temple_time</item>
+        <item>@string/sarasbaug_ganpati_temple_time</item>
+        <item>@string/dehu_temple_time</item>
+        <item>@string/iskcon_nvcc_temple_time</item>
+        <item>@string/katraj_jain_temple_time</item>
+        <item>@string/bhuleshwar_temple_time</item>
+        <item>@string/prati_shirdi_time</item>
+        <item>@string/alandi_time</item>
+        <item>@string/khandoba_mandir_time</item>
+        <item>@string/st_marys_church_time</item>
+        <item>@string/bhimashankar_temple_time</item>
+        <item>@string/baneshwar_temple_time</item>
+        <item>@string/prati_balaji_mandir_time</item>
+        <item>@string/amruteshwar_mandir_time</item>
+        <item>@string/katraj_snake_park_time</item>
+        <item>@string/rajiv_gandhi_zoological_park_time</item>
+        <item>@string/baner_pashan_biodiversity_park_time</item>
+    </string-array>
+
+    <string-array name="culturalAddress">
+        <item>@string/dagdusheth_halwai_ganpati_address</item>
+        <item>@string/parvati_hill_temple_address</item>
+        <item>@string/patalshewar_cave_temple_address</item>
+        <item>@string/shri_balaji_mandir_address</item>
+        <item>@string/chaturshringi_temple_address</item>
+        <item>@string/sarasbaug_ganpati_temple_address</item>
+        <item>@string/dehu_temple_address</item>
+        <item>@string/iskcon_nvcc_temple_address</item>
+        <item>@string/katraj_jain_temple_address</item>
+        <item>@string/bhuleshwar_temple_address</item>
+        <item>@string/prati_shirdi_address</item>
+        <item>@string/alandi_address</item>
+        <item>@string/khandoba_mandir_address</item>
+        <item>@string/st_marys_church_address</item>
+        <item>@string/bhimashankar_temple_address</item>
+        <item>@string/baneshwar_temple_address</item>
+        <item>@string/prati_balaji_mandir_address</item>
+        <item>@string/amruteshwar_mandir_address</item>
+        <item>@string/katraj_snake_park_address</item>
+        <item>@string/rajiv_gandhi_zoological_park_address</item>
+        <item>@string/baner_pashan_biodiversity_park_address</item>
+    </string-array>
+
+    <string-array name="culturalInfo">
+        <item>@string/dagdusheth_halwai_ganpati_about</item>
+        <item>@string/parvati_hill_temple_about</item>
+        <item>@string/patalshewar_cave_temple_about</item>
+        <item>@string/shri_balaji_mandir_about</item>
+        <item>@string/chaturshringi_temple_about</item>
+        <item>@string/sarasbaug_ganpati_temple_about</item>
+        <item>@string/dehu_temple_about</item>
+        <item>@string/iskcon_nvcc_temple_about</item>
+        <item>@string/katraj_jain_temple_about</item>
+        <item>@string/bhuleshwar_temple_about</item>
+        <item>@string/prati_shirdi_about</item>
+        <item>@string/alandi_about</item>
+        <item>@string/khandoba_mandir_about</item>
+        <item>@string/st_marys_church_about</item>
+        <item>@string/bhimashankar_temple_about</item>
+        <item>@string/baneshwar_temple_about</item>
+        <item>@string/prati_balaji_mandir_about</item>
+        <item>@string/amruteshwar_mandir_about</item>
+        <item>@string/katraj_snake_park_about</item>
+        <item>@string/rajiv_gandhi_zoological_park_about</item>
+        <item>@string/baner_pashan_biodiversity_park_about</item>
+    </string-array>
+
+    <string-array name="culturalPlaces">
+        <item>@string/dagdusheth_halwai_ganpati_places</item>
+        <item>@string/parvati_hill_temple_places</item>
+        <item>@string/patalshewar_cave_temple_places</item>
+        <item>@string/shri_balaji_mandir_places</item>
+        <item>@string/chaturshringi_temple_places</item>
+        <item>@string/sarasbaug_ganpati_temple_places</item>
+        <item>@string/dehu_temple_places</item>
+        <item>@string/iskcon_nvcc_temple_places</item>
+        <item>@string/katraj_jain_temple_places</item>
+        <item>@string/bhuleshwar_temple_places</item>
+        <item>@string/prati_shirdi_places</item>
+        <item>@string/alandi_places</item>
+        <item>@string/khandoba_mandir_places</item>
+        <item>@string/st_marys_church_places</item>
+        <item>@string/bhimashankar_temple_places</item>
+        <item>@string/baneshwar_temple_places</item>
+        <item>@string/prati_balaji_mandir_places</item>
+        <item>@string/amruteshwar_mandir_places</item>
+        <item>@string/katraj_snake_park_places</item>
+        <item>@string/rajiv_gandhi_zoological_park_places</item>
+        <item>@string/baner_pashan_biodiversity_park_places</item>
+    </string-array>
+
+    <string-array name="culturalHotels">
+        <item>@string/dagdusheth_halwai_ganpati_hotels</item>
+        <item>@string/parvati_hill_temple_hotels</item>
+        <item>@string/patalshewar_cave_temple_hotels</item>
+        <item>@string/shri_balaji_mandir_hotels</item>
+        <item>@string/chaturshringi_temple_hotels</item>
+        <item>@string/sarasbaug_ganpati_temple_hotels</item>
+        <item>@string/dehu_temple_hotels</item>
+        <item>@string/iskcon_nvcc_temple_hotels</item>
+        <item>@string/katraj_jain_temple_hotels</item>
+        <item>@string/bhuleshwar_temple_hotels</item>
+        <item>@string/prati_shirdi_hotels</item>
+        <item>@string/alandi_hotels</item>
+        <item>@string/khandoba_mandir_hotels</item>
+        <item>@string/st_marys_church_hotels</item>
+        <item>@string/bhimashankar_temple_hotels</item>
+        <item>@string/baneshwar_temple_hotels</item>
+        <item>@string/prati_balaji_mandir_hotels</item>
+        <item>@string/amruteshwar_mandir_hotels</item>
+        <item>@string/katraj_snake_park_hotels</item>
+        <item>@string/rajiv_gandhi_zoological_park_hotels</item>
+        <item>@string/baner_pashan_biodiversity_park_hotels</item>
+    </string-array>
+
+    <string-array name="culturalHelpline">
+        <item>@string/dagdusheth_halwai_ganpati_helpline</item>
+        <item>@string/parvati_hill_temple_helpline</item>
+        <item>@string/patalshewar_cave_temple_helpline</item>
+        <item>@string/shri_balaji_mandir_helpline</item>
+        <item>@string/chaturshringi_temple_helpline</item>
+        <item>@string/sarasbaug_ganpati_temple_helpline</item>
+        <item>@string/dehu_temple_helpline</item>
+        <item>@string/iskcon_nvcc_temple_helpline</item>
+        <item>@string/katraj_jain_temple_helpline</item>
+        <item>@string/bhuleshwar_temple_helpline</item>
+        <item>@string/prati_shirdi_helpline</item>
+        <item>@string/alandi_helpline</item>
+        <item>@string/khandoba_mandir_helpline</item>
+        <item>@string/st_marys_church_helpline</item>
+        <item>@string/bhimashankar_temple_helpline</item>
+        <item>@string/baneshwar_temple_helpline</item>
+        <item>@string/prati_balaji_mandir_helpline</item>
+        <item>@string/amruteshwar_mandir_helpline</item>
+        <item>@string/katraj_snake_park_helpline</item>
+        <item>@string/rajiv_gandhi_zoological_park_helpline</item>
+        <item>@string/baner_pashan_biodiversity_park_helpline</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="parksImgId">
+        <item>@drawable/panshet</item>
+        <item>@drawable/diamond_water_park</item>
+        <item>@drawable/appu_ghar</item>
+        <item>@drawable/krushnai</item>
+        <item>@drawable/splash</item>
+        <item>@drawable/manali_resort</item>
+        <item>@drawable/national_war_museum</item>
+        <item>@drawable/mahatma_phule</item>
+        <item>@drawable/raja_dinkar_kelkar</item>
+        <item>@drawable/joshs_museum</item>
+        <item>@drawable/peshwa_udyan</item>
+        <item>@drawable/tribal_museum</item>
+    </string-array>
+
+    <string-array name="parksName">
+        <item>@string/panshet_water_park</item>
+        <item>@string/diamond_water_park</item>
+        <item>@string/appu_ghar</item>
+        <item>@string/krushnai_water_park</item>
+        <item>@string/splash_mountain_park</item>
+        <item>@string/manali_resort</item>
+        <item>@string/national_war_museum</item>
+        <item>@string/mahatma_phule_museum</item>
+        <item>@string/raja_dinkar_kelkar_museum</item>
+        <item>@string/joshs_museum</item>
+        <item>@string/peshwa_udyan</item>
+        <item>@string/tribal_museum</item>
+    </string-array>
+
+    <string-array name="parksRating">
+        <item>4.4</item>
+        <item>3.7</item>
+        <item>3.8</item>
+        <item>3.7</item>
+        <item>4.1</item>
+        <item>4.1</item>
+        <item>4.8</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.1</item>
+        <item>4.4</item>
+    </string-array>
+
+    <string-array name="parksType">
+        <item>@string/panshet_water_park_type</item>
+        <item>@string/diamond_water_park_type</item>
+        <item>@string/appu_ghar_type</item>
+        <item>@string/krushnai_water_park_type</item>
+        <item>@string/splash_mountain_park_type</item>
+        <item>@string/manali_resort_type</item>
+        <item>@string/national_war_museum_type</item>
+        <item>@string/mahatma_phule_museum_type</item>
+        <item>@string/raja_dinkar_kelkar_museum_type</item>
+        <item>@string/joshs_museum_type</item>
+        <item>@string/peshwa_udyan_type</item>
+        <item>@string/tribal_museum_type</item>
+    </string-array>
+
+    <string-array name="parksPhone">
+        <item>@string/panshet_water_park_phone</item>
+        <item>@string/diamond_water_park_phone</item>
+        <item>@string/appu_ghar_phone</item>
+        <item>@string/krushnai_water_park_phone</item>
+        <item>@string/splash_mountain_park_phone</item>
+        <item>@string/manali_resort_phone</item>
+        <item>@string/national_war_museum_phone</item>
+        <item>@string/mahatma_phule_museum_phone</item>
+        <item>@string/raja_dinkar_kelkar_museum_phone</item>
+        <item>@string/joshs_museum_phone</item>
+        <item>@string/peshwa_udyan_phone</item>
+        <item>@string/tribal_museum_phone</item>
+    </string-array>
+
+    <string-array name="parksTime">
+        <item>@string/panshet_water_park_time</item>
+        <item>@string/diamond_water_park_time</item>
+        <item>@string/appu_ghar_time</item>
+        <item>@string/krushnai_water_park_time</item>
+        <item>@string/splash_mountain_park_time</item>
+        <item>@string/manali_resort_time</item>
+        <item>@string/national_war_museum_time</item>
+        <item>@string/mahatma_phule_museum_time</item>
+        <item>@string/raja_dinkar_kelkar_museum_time</item>
+        <item>@string/joshs_museum_time</item>
+        <item>@string/peshwa_udyan_time</item>
+        <item>@string/tribal_museum_time</item>
+    </string-array>
+
+    <string-array name="parksAddress">
+        <item>@string/panshet_water_park_address</item>
+        <item>@string/diamond_water_park_address</item>
+        <item>@string/appu_ghar_address</item>
+        <item>@string/krushnai_water_park_address</item>
+        <item>@string/splash_mountain_park_address</item>
+        <item>@string/manali_resort_address</item>
+        <item>@string/national_war_museum_address</item>
+        <item>@string/mahatma_phule_museum_address</item>
+        <item>@string/raja_dinkar_kelkar_museum_address</item>
+        <item>@string/joshs_museum_address</item>
+        <item>@string/peshwa_udyan_address</item>
+        <item>@string/tribal_museum_address</item>
+    </string-array>
+
+    <string-array name="parksUrl">
+        <item>@string/panshet_water_park_url</item>
+        <item>@string/diamond_water_park_url</item>
+        <item>@string/appu_ghar_url</item>
+        <item>@string/krushnai_water_park_url</item>
+        <item>@string/splash_mountain_park_url</item>
+        <item>@string/manali_resort_url</item>
+        <item>@string/national_war_museum_url</item>
+        <item>@string/mahatma_phule_museum_url</item>
+        <item>@string/raja_dinkar_kelkar_museum_url</item>
+        <item>@string/joshs_museum_url</item>
+        <item>@string/peshwa_udyan_url</item>
+        <item>@string/tribal_museum_url</item>
+    </string-array>
+
+    <string-array name="parksInfo">
+        <item>@string/panshet_water_park_about</item>
+        <item>@string/diamond_water_park_about</item>
+        <item>@string/appu_ghar_about</item>
+        <item>@string/krushnai_water_park_about</item>
+        <item>@string/splash_mountain_park_about</item>
+        <item>@string/manali_resort_about</item>
+        <item>@string/national_war_museum_about</item>
+        <item>@string/mahatma_phule_museum_about</item>
+        <item>@string/raja_dinkar_kelkar_museum_about</item>
+        <item>@string/joshs_museum_about</item>
+        <item>@string/peshwa_udyan_about</item>
+        <item>@string/tribal_museum_about</item>
+    </string-array>
+
+    <string-array name="parksPlaces">
+        <item>@string/panshet_water_park_places</item>
+        <item>@string/diamond_water_park_places</item>
+        <item>@string/appu_ghar_places</item>
+        <item>@string/krushnai_water_park_places</item>
+        <item>@string/splash_mountain_park_places</item>
+        <item>@string/manali_resort_places</item>
+        <item>@string/national_war_museum_places</item>
+        <item>@string/mahatma_phule_museum_places</item>
+        <item>@string/raja_dinkar_kelkar_museum_places</item>
+        <item>@string/joshs_museum_places</item>
+        <item>@string/peshwa_udyan_places</item>
+        <item>@string/tribal_museum_places</item>
+    </string-array>
+
+    <string-array name="parksHotels">
+        <item>@string/panshet_water_park_hotels</item>
+        <item>@string/diamond_water_park_hotels</item>
+        <item>@string/appu_ghar_hotels</item>
+        <item>@string/krushnai_water_park_hotels</item>
+        <item>@string/splash_mountain_park_hotels</item>
+        <item>@string/manali_resort_hotels</item>
+        <item>@string/national_war_museum_hotels</item>
+        <item>@string/mahatma_phule_museum_hotels</item>
+        <item>@string/raja_dinkar_kelkar_museum_hotels</item>
+        <item>@string/joshs_museum_hotels</item>
+        <item>@string/peshwa_udyan_hotels</item>
+        <item>@string/tribal_museum_hotels</item>
+    </string-array>
+
+    <string-array name="parksHelpline">
+        <item>@string/panshet_water_park_helpline</item>
+        <item>@string/diamond_water_park_helpline</item>
+        <item>@string/appu_ghar_helpline</item>
+        <item>@string/krushnai_water_park_helpline</item>
+        <item>@string/splash_mountain_park_helpline</item>
+        <item>@string/manali_resort_helpline</item>
+        <item>@string/national_war_museum_helpline</item>
+        <item>@string/mahatma_phule_museum_helpline</item>
+        <item>@string/raja_dinkar_kelkar_museum_helpline</item>
+        <item>@string/joshs_museum_helpline</item>
+        <item>@string/peshwa_udyan_helpline</item>
+        <item>@string/tribal_museum_helpline</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="hotelImgID">
+        <item>@drawable/aurora</item>
+        <item>@drawable/president</item>
+        <item>@drawable/amol</item>
+        <item>@drawable/basera</item>
+        <item>@drawable/pride</item>
+        <item>@drawable/ketan</item>
+        <item>@drawable/sayaji</item>
+        <item>@drawable/hmr</item>
+        <item>@drawable/saikiran</item>
+        <item>@drawable/malhar</item>
+        <item>@drawable/plaza</item>
+        <item>@drawable/shivtirth</item>
+        <item>@drawable/shivraj</item>
+        <item>@drawable/radhakrishna</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/hotel1</item>
+        <item>@drawable/hotel2</item>
+        <item>@drawable/hotel3</item>
+        <item>@drawable/hotel4</item>
+        <item>@drawable/hotel5</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/hotel1</item>
+        <item>@drawable/hotel2</item>
+        <item>@drawable/hotel3</item>
+        <item>@drawable/hotel4</item>
+        <item>@drawable/hotel5</item>
+        <item>@drawable/hotel</item>
+        <item>@drawable/hotel1</item>
+        <item>@drawable/hotel2</item>
+        <item>@drawable/hotel3</item>
+        <item>@drawable/hotel4</item>
+        <item>@drawable/radhakrishna</item>
+        <item>@drawable/hotel5</item>
+    </string-array>
+
+    <string-array name="hotelName">
+        <item>@string/hotel_aurora_towers</item>
+        <item>@string/the_president_hotel</item>
+        <item>@string/hotel_amol</item>
+        <item>@string/hotel_basera</item>
+        <item>@string/the_pride_hotel</item>
+        <item>@string/hotel_ketan</item>
+        <item>@string/banquets_at_sayaji_hotel</item>
+        <item>@string/hotel_hmr_royal_inn</item>
+        <item>@string/hotel_sai_kiran</item>
+        <item>@string/hotel_malhar_inn</item>
+        <item>@string/town_plaza_hotel</item>
+        <item>@string/hotel_shiv_tirth</item>
+        <item>@string/shivaraj_lodge_restaurent</item>
+        <item>@string/hotel_radha_krishna</item>
+        <item>@string/akash_garden_restaurant</item>
+        <item>@string/hotel_jay_shree</item>
+        <item>@string/fabhotel_gandharva</item>
+        <item>@string/agro_resort</item>
+        <item>@string/bouganvilla_retreat</item>
+        <item>@string/green_fog_guesthouse</item>
+        <item>@string/the_orchid_hotel</item>
+        <item>@string/the_corinthians_resort</item>
+        <item>@string/hotel_mint_montVert</item>
+        <item>@string/sheraton_grand_hotel</item>
+        <item>@string/hotel_shreyas</item>
+        <item>@string/hotel_sagar_plaza</item>
+        <item>@string/ginger_pune_wakad</item>
+        <item>@string/nitya_eco_family_resort</item>
+        <item>@string/rajmachi_base_camp</item>
+        <item>@string/hotel_tulajabhavani</item>
+        <item>@string/hotel_new_rajmata</item>
+        <item>@string/hotel_radha_krishna_residency</item>
+        <item>@string/shivneri_fort_valley_resort</item>
+    </string-array>
+
+    <string-array name="hotelRating">
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.2</item>
+        <item>4.0</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.2</item>
+        <item>4.0</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.1</item>
+        <item>4.4</item>
+    </string-array>
+
+    <string-array name="hotelType">
+        <item>@string/hotel_aurora_towers_type</item>
+        <item>@string/the_president_hotel_type</item>
+        <item>@string/hotel_amol_type</item>
+        <item>@string/hotel_basera_type</item>
+        <item>@string/the_pride_hotel_type</item>
+        <item>@string/hotel_ketan_type</item>
+        <item>@string/banquets_at_sayaji_hotel_type</item>
+        <item>@string/hotel_hmr_royal_inn_type</item>
+        <item>@string/hotel_sai_kiran_type</item>
+        <item>@string/hotel_malhar_inn_type</item>
+        <item>@string/town_plaza_hotel_type</item>
+        <item>@string/hotel_shiv_tirth_type</item>
+        <item>@string/shivaraj_lodge_restaurent_type</item>
+        <item>@string/hotel_radha_krishna_type</item>
+        <item>@string/akash_garden_restaurant_type</item>
+        <item>@string/hotel_jay_shree_type</item>
+        <item>@string/fabhotel_gandharva_type</item>
+        <item>@string/agro_resort_type</item>
+        <item>@string/bouganvilla_retreat_type</item>
+        <item>@string/green_fog_guesthouse_type</item>
+        <item>@string/the_orchid_hotel_type</item>
+        <item>@string/the_corinthians_resort_type</item>
+        <item>@string/hotel_mint_montVert_type</item>
+        <item>@string/sheraton_grand_hotel_type</item>
+        <item>@string/hotel_shreyas_type</item>
+        <item>@string/hotel_sagar_plaza_type</item>
+        <item>@string/ginger_pune_wakad_type</item>
+        <item>@string/nitya_eco_family_resort_type</item>
+        <item>@string/rajmachi_base_camp_type</item>
+        <item>@string/hotel_tulajabhavani_type</item>
+        <item>@string/hotel_new_rajmata_type</item>
+        <item>@string/hotel_radha_krishna_residency_type</item>
+        <item>@string/shivneri_fort_valley_resort_type</item>
+    </string-array>
+
+    <string-array name="hotelPhone">
+        <item>@string/hotel_aurora_towers_phone</item>
+        <item>@string/the_president_hotel_phone</item>
+        <item>@string/hotel_amol_phone</item>
+        <item>@string/hotel_basera_phone</item>
+        <item>@string/the_pride_hotel_phone</item>
+        <item>@string/hotel_ketan_phone</item>
+        <item>@string/banquets_at_sayaji_hotel_phone</item>
+        <item>@string/hotel_hmr_royal_inn_phone</item>
+        <item>@string/hotel_sai_kiran_phone</item>
+        <item>@string/hotel_malhar_inn_phone</item>
+        <item>@string/town_plaza_hotel_phone</item>
+        <item>@string/hotel_shiv_tirth_phone</item>
+        <item>@string/shivaraj_lodge_restaurent_phone</item>
+        <item>@string/hotel_radha_krishna_phone</item>
+        <item>@string/akash_garden_restaurant_phone</item>
+        <item>@string/hotel_jay_shree_phone</item>
+        <item>@string/fabhotel_gandharva_phone</item>
+        <item>@string/agro_resort_phone</item>
+        <item>@string/bouganvilla_retreat_phone</item>
+        <item>@string/green_fog_guesthouse_phone</item>
+        <item>@string/the_orchid_hotel_phone</item>
+        <item>@string/the_corinthians_resort_phone</item>
+        <item>@string/hotel_mint_montVert_phone</item>
+        <item>@string/sheraton_grand_hotel_phone</item>
+        <item>@string/hotel_shreyas_phone</item>
+        <item>@string/hotel_sagar_plaza_phone</item>
+        <item>@string/ginger_pune_wakad_phone</item>
+        <item>@string/nitya_eco_family_resort_phone</item>
+        <item>@string/rajmachi_base_camp_phone</item>
+        <item>@string/hotel_tulajabhavani_phone</item>
+        <item>@string/hotel_new_rajmata_phone</item>
+        <item>@string/hotel_radha_krishna_residency_phone</item>
+        <item>@string/shivneri_fort_valley_resort_phone</item>
+    </string-array>
+
+    <string-array name="hotelAddress">
+        <item>@string/hotel_aurora_towers_address</item>
+        <item>@string/the_president_hotel_address</item>
+        <item>@string/hotel_amol_address</item>
+        <item>@string/hotel_basera_address</item>
+        <item>@string/the_pride_hotel_address</item>
+        <item>@string/hotel_ketan_address</item>
+        <item>@string/banquets_at_sayaji_hotel_address</item>
+        <item>@string/hotel_hmr_royal_inn_address</item>
+        <item>@string/hotel_sai_kiran_address</item>
+        <item>@string/hotel_malhar_inn_address</item>
+        <item>@string/town_plaza_hotel_address</item>
+        <item>@string/hotel_shiv_tirth_address</item>
+        <item>@string/shivaraj_lodge_restaurent_address</item>
+        <item>@string/hotel_radha_krishna_address</item>
+        <item>@string/akash_garden_restaurant_address</item>
+        <item>@string/hotel_jay_shree_address</item>
+        <item>@string/fabhotel_gandharva_address</item>
+        <item>@string/agro_resort_address</item>
+        <item>@string/bouganvilla_retreat_address</item>
+        <item>@string/green_fog_guesthouse_address</item>
+        <item>@string/the_orchid_hotel_address</item>
+        <item>@string/the_corinthians_resort_address</item>
+        <item>@string/hotel_mint_montVert_address</item>
+        <item>@string/sheraton_grand_hotel_address</item>
+        <item>@string/hotel_shreyas_address</item>
+        <item>@string/hotel_sagar_plaza_address</item>
+        <item>@string/ginger_pune_wakad_address</item>
+        <item>@string/nitya_eco_family_resort_address</item>
+        <item>@string/rajmachi_base_camp_address</item>
+        <item>@string/hotel_tulajabhavani_address</item>
+        <item>@string/hotel_new_rajmata_address</item>
+        <item>@string/hotel_radha_krishna_residency_address</item>
+        <item>@string/shivneri_fort_valley_resort_address</item>
+    </string-array>
+
+    <string-array name="hotelInfo">
+        <item>@string/hotel_aurora_towers_about</item>
+        <item>@string/the_president_hotel_about</item>
+        <item>@string/hotel_amol_about</item>
+        <item>@string/hotel_basera_about</item>
+        <item>@string/the_pride_hotel_about</item>
+        <item>@string/hotel_ketan_about</item>
+        <item>@string/banquets_at_sayaji_hotel_about</item>
+        <item>@string/hotel_hmr_royal_inn_about</item>
+        <item>@string/hotel_sai_kiran_about</item>
+        <item>@string/hotel_malhar_inn_about</item>
+        <item>@string/town_plaza_hotel_about</item>
+        <item>@string/hotel_shiv_tirth_about</item>
+        <item>@string/shivaraj_lodge_restaurent_about</item>
+        <item>@string/hotel_radha_krishna_about</item>
+        <item>@string/akash_garden_restaurant_about</item>
+        <item>@string/hotel_jay_shree_about</item>
+        <item>@string/fabhotel_gandharva_about</item>
+        <item>@string/agro_resort_about</item>
+        <item>@string/bouganvilla_retreat_about</item>
+        <item>@string/green_fog_guesthouse_about</item>
+        <item>@string/the_orchid_hotel_about</item>
+        <item>@string/the_corinthians_resort_about</item>
+        <item>@string/hotel_mint_montVert_about</item>
+        <item>@string/sheraton_grand_hotel_about</item>
+        <item>@string/hotel_shreyas_about</item>
+        <item>@string/hotel_sagar_plaza_about</item>
+        <item>@string/ginger_pune_wakad_about</item>
+        <item>@string/nitya_eco_family_resort_about</item>
+        <item>@string/rajmachi_base_camp_about</item>
+        <item>@string/hotel_tulajabhavani_about</item>
+        <item>@string/hotel_new_rajmata_about</item>
+        <item>@string/hotel_radha_krishna_residency_about</item>
+        <item>@string/shivneri_fort_valley_resort_about</item>
+    </string-array>
+
+
+</resources>
